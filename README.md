@@ -1,2 +1,22 @@
-# covid19-venezuela
-Coronavirus COVID-19 Casos reportados por el Gobierno de Venezuela y extración datos globales para Venezuela del Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
+# covid-19-ven
+
+> Sistema de casos del virus Covid-19 en Venezuela
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
