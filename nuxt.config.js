@@ -2,6 +2,9 @@ export default {
   generate: {
     dir: 'docs'
   },
+  router: {
+    base: '/covid19-venezuela/'
+  },
 
   mode: 'spa',
   /*
