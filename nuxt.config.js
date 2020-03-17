@@ -11,7 +11,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'COVID-19  en Venezuela' || '',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -39,17 +39,29 @@ export default {
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: '/covid19-venezuela/snapshot.png'
+        content:
+          'https://covidvenezuela.github.io/covid19-venezuela/snapshot.png'
       },
       {
-        hid: 'description',
-        name: 'description',
+        hid: 'twitter:image:alt',
+        name: 'twitter:image:alt',
         content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
       },
       {
         hid: 'og:image',
         property: 'og:image',
-        content: '/covid19-venezuela/snapshot.png'
+        content:
+          'https://covidvenezuela.github.io/covid19-venezuela/covid19-venezuela/snapshot.png'
+      },
+      {
+        hid: 'og:type',
+        name: 'og:type',
+        content: 'website'
+      },
+      {
+        hid: 'og:url',
+        name: 'og:url',
+        content: 'https://covidvenezuela.github.io/covid19-venezuela/'
       },
       {
         hid: 'og:site_name',
@@ -65,7 +77,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'COVID-19 en Venezuela' || ''
+        content: 'COVID-19  en Venezuela' || ''
       }
     ],
     link: [
