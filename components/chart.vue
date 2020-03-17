@@ -17,7 +17,7 @@ export default {
     chart.paddingRight = 10
 
     // Set up data source
-    chart.dataSource.url = '/2020-16-03.csv'
+    chart.dataSource.url = '/covid19-venezuela/2020-16-03.csv'
     chart.dataSource.parser = new am4core.CSVParser()
     chart.dataSource.parser.options.useColumnNames = true
 

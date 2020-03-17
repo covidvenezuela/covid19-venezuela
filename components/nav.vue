@@ -7,7 +7,7 @@
     >
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item" href="/">
+          <a class="navbar-item" href="/covid19-venezuela/">
             COVID-19 Venezuela
           </a>
           <a
@@ -24,7 +24,11 @@
         </div>
         <div class="navbar-menu" id="navMenu">
           <div class="navbar-end">
-            <a href="#" class="navbar-item">
+            <a
+              target="_blank"
+              href="https://github.com/covidvenezuela/covid19-venezuela"
+              class="navbar-item"
+            >
               Github
             </a>
             <a href="#footer" class="navbar-item">
@@ -38,33 +42,33 @@
 </template>
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  // Get all "navbar-burger" elements
-  const $navbarBurgers = Array.prototype.slice.call(
-    document.querySelectorAll('.navbar-burger'),
-    0
-  )
-  // Check if there are any navbar burgers
-  if ($navbarBurgers.length > 0) {
-    // Add a click event on each of them
-    $navbarBurgers.forEach(el => {
-      el.addEventListener('click', () => {
-        // Get the target from the "data-target" attribute
-        const target = el.dataset.target
-        const $target = document.getElementById(target)
+  document.addEventListener('DOMContentLoaded', () => {
+    // Get all "navbar-burger" elements
+    const $navbarBurgers = Array.prototype.slice.call(
+      document.querySelectorAll('.navbar-burger'),
+      0
+    )
+    // Check if there are any navbar burgers
+    if ($navbarBurgers.length > 0) {
+      // Add a click event on each of them
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
+          // Get the target from the "data-target" attribute
+          const target = el.dataset.target
+          const $target = document.getElementById(target)
 
-        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-        el.classList.toggle('is-active')
-        $target.classList.toggle('is-active')
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          el.classList.toggle('is-active')
+          $target.classList.toggle('is-active')
+        })
       })
-    })
-  }
-})
+    }
+  })
 </script>
 
 <style>
-.gradient {
-  background: linear-gradient(-30deg, #2e2575, #b713a6 45%, #2e2575 45%) #361b9c;
-  box-shadow: 0px 10px 1rem 0 rgba(79, 56, 164, 0.2);
-}
+  .gradient {
+    background: linear-gradient(-30deg, #2e2575, #b713a6 45%, #2e2575 45%) #361b9c;
+    box-shadow: 0px 10px 1rem 0 rgba(79, 56, 164, 0.2);
+  }
 </style>

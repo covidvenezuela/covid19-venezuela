@@ -16,17 +16,70 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
+        hid: 'twitter:card',
+        name: 'twitter:card',
+        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+      },
+      { hid: 'twitter:site', name: 'twitter:site', content: '@rendergraf' },
+      {
+        hid: 'twitter:creator',
+        name: 'twitter:creator',
+        content: '@rendergraf'
+      },
+      {
+        hid: 'twitter:title',
+        name: 'twitter:title',
+        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+      },
+      {
+        hid: 'twitter:description',
+        name: 'twitter:description',
+        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+      },
+      {
+        hid: 'twitter:image',
+        name: 'twitter:image',
+        content: '/covid19-venezuela/snapshot.png'
+      },
+      {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || ''
+        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/covid19-venezuela/snapshot.png'
+      },
+      {
+        hid: 'og:site_name',
+        name: 'og:site_name',
+        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+      },
+      { hid: 'og:title', name: 'og:title', content: 'COVID-19 Venezuela' },
+      {
+        hid: 'og:description',
+        name: 'og:description',
+        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+      },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'COVID-19 en Venezuela' || ''
       }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/covid19-venezuela/favicon.ico'
+      }
+    ]
   },
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: { color: '#00d1b2' },
   /*
    ** Global CSS
    */

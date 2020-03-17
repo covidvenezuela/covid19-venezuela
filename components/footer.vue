@@ -12,7 +12,8 @@
               href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
               >Johns Hopkins University (JHU)</a
             ></strong
-          >
+          ><br />
+          <a href="mailto:covidvenezuela@gmail.com">covidvenezuela@gmail.com</a>
         </p>
       </div>
     </div>
@@ -20,7 +21,7 @@
 </template>
 
 <script>
-export default {}
+  export default {}
 </script>
 
 <style></style>

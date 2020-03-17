@@ -27,17 +27,17 @@
       </div>
     </nav>
     <div class="has-text-centered">
-      Última actualización: Lunes 16 de Marzo 5:35 pm
+      <strong>Última actualización: Lunes 16 de Marzo 5:35 pm </strong>
     </div>
   </div>
 </template>
 
 <script>
-export default {}
+  export default {}
 </script>
 
 <style>
-.padding-top {
-  margin-top: 1.5rem;
-}
+  .padding-top {
+    margin-top: 1.5rem;
+  }
 </style>
