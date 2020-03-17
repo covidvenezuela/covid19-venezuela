@@ -4,7 +4,7 @@
       <div class="level-item has-text-centered">
         <div>
           <p class="heading has-text-info">Confirmados</p>
-          <p class="title has-text-info">33</p>
+          <p class="title has-text-info">36</p>
         </div>
       </div>
       <div class="level-item has-text-centered">
@@ -22,12 +22,12 @@
       <div class="level-item has-text-centered">
         <div>
           <p class="heading has-text-success">Activos</p>
-          <p class="title has-text-success">33</p>
+          <p class="title has-text-success">36</p>
         </div>
       </div>
     </nav>
     <div class="has-text-centered">
-      <strong>Última actualización: Lunes 16 de Marzo 5:35 pm </strong>
+      <strong>Última actualización: Martes 17 de Marzo 7:26 pm </strong>
     </div>
   </div>
 </template>
