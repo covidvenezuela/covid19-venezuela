@@ -51,7 +51,7 @@ export default {
         hid: 'og:image',
         property: 'og:image',
         content:
-          'https://covidvenezuela.github.io/covid19-venezuela/covid19-venezuela/snapshot.png'
+          'https://covidvenezuela.github.io/covid19-venezuela/snapshot.png'
       },
       {
         hid: 'og:type',
