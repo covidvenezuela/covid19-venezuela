@@ -1,4 +1,4 @@
-# El nuevo Coronavirus COVID-19 (SARS-CoV-2) Repositorio de datos by Covidvenezuela
+# El nuevo Coronavirus COVID-19 (SARS-CoV-2) Repositorio de datos hecho por Covidvenezuela
 
 Este es el repositorio de datos para el nuevo Coronavirus COVID-19 operado por el Equipo de Covidvenezuela.
 
@@ -9,7 +9,7 @@ https://es.wikipedia.org/wiki/COVID-19
 
 - Ministerio del Poder Popular para la Comunicación y la Información (MippCI) (WHO): http://www.minci.gob.ve/presidencial/ <br><br>
 
-## Contact Us:
+<b>SARS-CoV-2:</b><br>
 
 - Email: covidvenezuela@gmail.com
 
