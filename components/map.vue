@@ -76,7 +76,7 @@
           color: am4core.color('#ff0000')
         },
         {
-          title: 'Miranda 17 Casos',
+          title: 'Miranda 20 Casos',
           latitude: 10.2959803,
           longitude: -66.3534698,
           color: am4core.color('#ff0000')
