@@ -1,7 +1,9 @@
 <template>
-  <div>
+  <div class="container">
     <div class="has-text-centered">
-      <h1 class="is-size-2"><strong>CORONAVIRUS VENEZUELA</strong></h1>
+      <h1 class="is-size-2 title-magenta">
+        <strong>CORONAVIRUS VENEZUELA</strong>
+      </h1>
     </div>
     <nav class="level is-mobile padding-top">
       <div class="level-item has-text-centered">
@@ -33,11 +35,17 @@
 </template>
 
 <script>
-  export default {}
+export default {}
 </script>
 
 <style>
-  .padding-top {
-    margin-top: 1.5rem;
-  }
+.heading {
+  font-size: 16px !important;
+}
+.title-magenta {
+  color: #b713a6;
+}
+.padding-top {
+  margin-top: 1.5rem;
+}
 </style>

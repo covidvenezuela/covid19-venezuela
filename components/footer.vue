@@ -17,6 +17,7 @@
             ></strong
           ><br />
           <a
+            target="_blank"
             href="http://www.minci.gob.ve/venezuela-registra-33-casos-positivos-de-covid-19/"
             >Ministerio del Poder Popular para la Comunicación y la Información
             MippCI</a
@@ -29,7 +30,7 @@
 </template>
 
 <script>
-  export default {}
+export default {}
 </script>
 
 <style></style>

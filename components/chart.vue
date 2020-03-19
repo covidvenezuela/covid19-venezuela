@@ -1,5 +1,7 @@
 <template>
-  <div class="chart" ref="chartdiv"></div>
+  <div class="container">
+    <div class="chart" ref="chartdiv"></div>
+  </div>
 </template>
 
 <script>
@@ -76,49 +78,49 @@
       //console.log(confirmados.dataFields)
 
       /* year,cars,motorcycles,bicycles
-            1994,1587,650,121
-            1995,1567,683,146
-            1996,1617,691,138 */
+              1994,1587,650,121
+              1995,1567,683,146
+              1996,1617,691,138 */
 
       /*     let data = [
-                  {
-                    date: 'Fri Mar 13 2020',
-                    name: 'Nuevo Casos',
-                    value: 2
-                  },
-                  {
-                    date: 'Sat Mar 14 2020',
-                    name: 'Nuevo Casos',
-                    value: 7
-                  },
-                  {
-                    date: 'Sun Mar 15 2020',
-                    name: 'Nuevo Casos',
-                    value: 8
-                  }
-                ] */
+                    {
+                      date: 'Fri Mar 13 2020',
+                      name: 'Nuevo Casos',
+                      value: 2
+                    },
+                    {
+                      date: 'Sat Mar 14 2020',
+                      name: 'Nuevo Casos',
+                      value: 7
+                    },
+                    {
+                      date: 'Sun Mar 15 2020',
+                      name: 'Nuevo Casos',
+                      value: 8
+                    }
+                  ] */
 
       /*     chart.data = data
 
-                let dateAxis = chart.xAxes.push(new am4charts.DateAxis())
-                dateAxis.renderer.grid.template.location = 0
+                  let dateAxis = chart.xAxes.push(new am4charts.DateAxis())
+                  dateAxis.renderer.grid.template.location = 0
 
-                let valueAxis = chart.yAxes.push(new am4charts.ValueAxis())
-                valueAxis.tooltip.disabled = true
-                valueAxis.renderer.minWidth = 35
+                  let valueAxis = chart.yAxes.push(new am4charts.ValueAxis())
+                  valueAxis.tooltip.disabled = true
+                  valueAxis.renderer.minWidth = 35
 
-                let series = chart.series.push(new am4charts.LineSeries())
-                series.dataFields.dateX = 'date'
-                series.dataFields.valueY = 'value'
+                  let series = chart.series.push(new am4charts.LineSeries())
+                  series.dataFields.dateX = 'date'
+                  series.dataFields.valueY = 'value'
 
-                series.tooltipText = '{valueY.value}'
-                chart.cursor = new am4charts.XYCursor()
+                  series.tooltipText = '{valueY.value}'
+                  chart.cursor = new am4charts.XYCursor()
 
-                let scrollbarX = new am4charts.XYChartScrollbar()
-                scrollbarX.series.push(series)
-                chart.scrollbarX = scrollbarX
+                  let scrollbarX = new am4charts.XYChartScrollbar()
+                  scrollbarX.series.push(series)
+                  chart.scrollbarX = scrollbarX
 
-                this.chart = chart */
+                  this.chart = chart */
     },
 
     beforeDestroy() {
