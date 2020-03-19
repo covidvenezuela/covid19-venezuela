@@ -38,12 +38,14 @@
   export default {}
 </script>
 
-<style>
+<style lang="scss">
   .heading {
     font-size: 16px !important;
   }
   .title-magenta {
-    color: #b713a6;
+      strong {
+            color: #b713a6 !important;
+      }
   }
   .padding-top {
     margin-top: 1.5rem;

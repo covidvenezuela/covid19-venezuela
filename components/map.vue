@@ -18,6 +18,10 @@
       // Set map definition
       chart.geodata = chart.geodataSource.url
 
+      chart.exporting.menu = new am4core.ExportMenu()
+      chart.exporting.menu.align = 'left'
+      chart.exporting.menu.verticalAlign = 'bottom'
+
       // Set projection
       chart.projection = new am4maps.projections.Miller()
 
@@ -30,7 +34,7 @@
       // Configure series
       var polygonTemplate = polygonSeries.mapPolygons.template
       polygonTemplate.tooltipText = '{ESTADO}'
-      polygonTemplate.fill = am4core.color('#48c774')
+      polygonTemplate.fill = am4core.color('#bbbbbb')
 
       // Create hover state and set alternative fill color
       var hs = polygonTemplate.states.create('hover')
@@ -38,7 +42,7 @@
 
       var label = chart.chartContainer.createChild(am4core.Label)
       label.text =
-        'Caracas (8), Miranda (13), La Guaira (5), Aragua (2), Anzoátegui (2), Mérida (1), Cojedes (1) y Apure (1)'
+        'Caracas (8), Miranda (20), La Guaira (5), Aragua (2), Anzoátegui (2), Mérida (1), Cojedes (1), Apure (1) y Zulia(1) ?(1)'
       label.fontSize = 18
       label.paddingBottom = 50
       label.align = 'center'

@@ -1,7 +1,7 @@
 <template>
   <footer id="footer" class="footer">
     <div class="container">
-      <div class="has-text-centered">
+      <div id="date" class="has-text-centered">
         <strong>Actualizado: Jueves 19 de Marzo 3:51 pm </strong>
       </div>
       <div class="content has-text-centered">

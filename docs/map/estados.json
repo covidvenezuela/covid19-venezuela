@@ -1,42 +1,56 @@
 [
   {
+    "title": "Caracas 8 Casos",
     "latitude": 10.4880104,
     "longitude": -66.9791885,
-    "title": "Caracas 8"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "Miranda 20 Casos",
     "latitude": 10.2959803,
     "longitude": -66.3534698,
-    "title": "Miranda 13"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "La Guaira 5 Casos",
     "latitude": 10.5880104,
     "longitude": -66.6791885,
-    "title": "La Guaira 5"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "Aragua 2 Casos",
     "latitude": 10.2353497,
     "longitude": -67.3911331,
-    "title": "Aragua 2"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "Anzoátegui 2 Casos",
     "latitude": 9.7362495,
     "longitude": -64.6861801,
-    "title": "Anzoátegui 2"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "Mérida 1 Caso",
     "latitude": 8.5897198,
     "longitude": -71.1561127,
-    "title": "Mérida 1"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "Cojedes 1 Caso",
     "latitude": 9.6612396,
     "longitude": -68.5826797,
-    "title": "Cojedes 1"
+    "color": "am4core.color('#ff0000')"
   },
   {
+    "title": "Apure 1 Caso",
     "latitude": 7.5878198,
     "longitude": -67.4723587,
-    "title": "Apure 1"
+    "color": "am4core.color('#ff0000')"
+  },
+  {
+    "title": "Zulia 1 Caso",
+    "latitude": 10.6666298,
+    "longitude": -71.6124496,
+    "color": "am4core.color('#ff0000')"
   }
 ]
