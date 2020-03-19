@@ -9,7 +9,7 @@
       <div class="level-item has-text-centered">
         <div>
           <p class="heading has-text-info">Confirmados</p>
-          <p class="title has-text-info">36</p>
+          <p class="title has-text-info">42</p>
         </div>
       </div>
       <div class="level-item has-text-centered">
@@ -27,7 +27,7 @@
       <div class="level-item has-text-centered">
         <div>
           <p class="heading has-text-success">Activos</p>
-          <p class="title has-text-success">36</p>
+          <p class="title has-text-success">42</p>
         </div>
       </div>
     </nav>
@@ -35,17 +35,17 @@
 </template>
 
 <script>
-export default {}
+  export default {}
 </script>
 
 <style>
-.heading {
-  font-size: 16px !important;
-}
-.title-magenta {
-  color: #b713a6;
-}
-.padding-top {
-  margin-top: 1.5rem;
-}
+  .heading {
+    font-size: 16px !important;
+  }
+  .title-magenta {
+    color: #b713a6;
+  }
+  .padding-top {
+    margin-top: 1.5rem;
+  }
 </style>

@@ -2,7 +2,7 @@
   <footer id="footer" class="footer">
     <div class="container">
       <div class="has-text-centered">
-        <strong>Actualizado: Jueves 19 de Marzo 1:28 am </strong>
+        <strong>Actualizado: Jueves 19 de Marzo 3:51 pm </strong>
       </div>
       <div class="content has-text-centered">
         <p>
@@ -16,9 +16,7 @@
               >Johns Hopkins University (JHU)</a
             ></strong
           ><br />
-          <a
-            target="_blank"
-            href="http://www.minci.gob.ve/venezuela-registra-33-casos-positivos-de-covid-19/"
+          <a target="_blank" href="http://www.minci.gob.ve/presidencial/"
             >Ministerio del Poder Popular para la Comunicación y la Información
             MippCI</a
           ><br />
@@ -30,7 +28,7 @@
 </template>
 
 <script>
-export default {}
+  export default {}
 </script>
 
 <style></style>
