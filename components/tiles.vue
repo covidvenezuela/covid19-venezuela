@@ -1,5 +1,8 @@
 <template>
   <div>
+    <div class="has-text-centered">
+      <h1 class="is-size-2"><strong>CORONAVIRUS VENEZUELA</strong></h1>
+    </div>
     <nav class="level is-mobile padding-top">
       <div class="level-item has-text-centered">
         <div>
@@ -26,9 +29,6 @@
         </div>
       </div>
     </nav>
-    <div class="has-text-centered">
-      <strong>Última actualización: Martes 17 de Marzo 7:26 pm </strong>
-    </div>
   </div>
 </template>
 

@@ -1,6 +1,9 @@
 <template>
   <footer id="footer" class="footer">
     <div class="container">
+      <div class="has-text-centered">
+        <strong>Actualizado: Jueves 19 de Marzo 1:28 am </strong>
+      </div>
       <div class="content has-text-centered">
         <p>
           <strong>Coronavirus COVID-19 </strong> Casos reportados por el
@@ -12,6 +15,11 @@
               href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
               >Johns Hopkins University (JHU)</a
             ></strong
+          ><br />
+          <a
+            href="http://www.minci.gob.ve/venezuela-registra-33-casos-positivos-de-covid-19/"
+            >Ministerio del Poder Popular para la Comunicación y la Información
+            MippCI</a
           ><br />
           <a href="mailto:covidvenezuela@gmail.com">covidvenezuela@gmail.com</a>
         </p>
