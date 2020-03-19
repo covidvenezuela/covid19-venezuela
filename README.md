@@ -17,7 +17,16 @@ https://es.wikipedia.org/wiki/COVID-19
 
 ## Build Setup
 
+### Development
+
+#### Install requirements
+
+- Node >= v12.16.0
+- Yarn >= 1.19.0
+
 ```bash
+git clone https://github.com/covidvenezuela/covid19-venezuela.git
+cd covid19-venezuela/
 # install dependencies
 $ yarn install
 
