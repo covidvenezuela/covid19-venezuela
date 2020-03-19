@@ -26,7 +26,7 @@ export default ({ app }) => {
     'ga'
   )
   /*
-   ** Set the current page
+   ** Set the current pages
    */
   ga('create', 'UA-160977735-1', 'auto')
   /*
