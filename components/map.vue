@@ -110,6 +110,9 @@ export default {
   &_h1 {
     margin-top: 30px;
     margin-bottom: 20px;
+    @include mobile {
+      font-size: 1.8rem !important;
+    }
   }
 }
 #chartdiv {

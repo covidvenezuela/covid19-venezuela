@@ -5,7 +5,7 @@
         <strong>CORONAVIRUS VENEZUELA</strong>
       </h1>
     </div>
-    <nav class="level status is-mobile padding-top">
+    <nav class="level status padding-top">
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-danger">Confirmados</p>
@@ -35,26 +35,44 @@
 </template>
 
 <script>
-  export default {}
+export default {}
 </script>
 
 <style lang="scss">
-  .status {
-    &_item {
-      background-color: #f5f5f5;
-      padding: 20px;
+@import '~bulma/sass/utilities/all';
+.status {
+  &_item {
+    background-color: #f5f5f5;
+    padding: 3px 20px;
+    margin-bottom: 2px !important;
+    margin-right: 2px;
+    margin-left: 2px;
+    @include mobile {
+      margin-right: 10px;
+      margin-left: 10px;
     }
   }
-  .heading {
-    font-size: 16px !important;
+  .title {
+    padding-bottom: 5px;
   }
-  .title-magenta {
-    margin-top: 20px;
-    strong {
-      color: #b713a6 !important;
-    }
+}
+.heading {
+  font-size: 22px !important;
+  margin-bottom: 0px !important;
+}
+.title-magenta {
+  margin-top: 20px;
+  @include mobile {
+    font-size: 1.8rem !important;
   }
-  .padding-top {
-    margin-top: 1.5rem;
+
+  strong {
+    color: #b713a6 !important;
+    line-height: 1;
+    display: inline-block;
   }
+}
+.padding-top {
+  margin-top: 0.5rem;
+}
 </style>
