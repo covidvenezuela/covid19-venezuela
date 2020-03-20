@@ -56,8 +56,8 @@ export default {
     sanados.dataFields.categoryX = 'date'
     sanados.name = 'Sanados'
     sanados.strokeWidth = 3
-    sanados.fill = am4core.color('#48c774')
-    sanados.stroke = am4core.color('#48c774')
+    sanados.fill = am4core.color('#00d1b2')
+    sanados.stroke = am4core.color('#00d1b2')
     sanados.bullets.push(new am4charts.CircleBullet())
 
     let fallecidos = chart.series.push(new am4charts.LineSeries())
@@ -69,6 +69,15 @@ export default {
     fallecidos.stroke = am4core.color('#3298dc')
     fallecidos.bullets.push(new am4charts.CircleBullet())
 
+    let activos = chart.series.push(new am4charts.LineSeries())
+    activos.dataFields.valueY = 'activos'
+    activos.dataFields.categoryX = 'date'
+    activos.name = 'Activos'
+    activos.strokeWidth = 3
+    activos.fill = am4core.color('#48c774')
+    activos.stroke = am4core.color('#48c774')
+    activos.bullets.push(new am4charts.CircleBullet())
+
     confirmados.tooltipText = '{valueY.value}'
     sanados.tooltipText = '{valueY.value}'
     fallecidos.tooltipText = '{valueY.value}'
@@ -79,6 +88,12 @@ export default {
     chart.scrollbarX = scrollbarX
 
     chart.legend = new am4charts.Legend()
+    chart.legend.useDefaultMarker = true
+    let marker = chart.legend.markers.template.children.getIndex(0)
+    marker.cornerRadius(12, 12, 12, 12)
+    marker.strokeWidth = 2
+    marker.strokeOpacity = 1
+    marker.stroke = am4core.color('#ccc')
   },
 
   beforeDestroy() {
@@ -91,7 +106,7 @@ export default {
 
 <style>
 .chart {
-  width: 100%;
+  width: 96%;
   height: 500px;
 }
 </style>

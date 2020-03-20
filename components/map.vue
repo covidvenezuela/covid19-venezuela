@@ -58,6 +58,7 @@ export default {
     button.icon = new am4core.Sprite()
     button.icon.path =
       'M16,8 L14,8 L14,16 L10,16 L10,10 L6,10 L6,16 L2,16 L2,8 L0,8 L8,0 L16,8 Z M16,8'
+    button.fill = am4core.color('#b713a6')
 
     // Create image series
     var imageSeries = chart.series.push(new am4maps.MapImageSeries())
@@ -106,6 +107,25 @@ export default {
 
 <style lang="scss">
 @import '~bulma/sass/utilities/all';
+.amcharts-amexport-item {
+  //border: 2px solid #777;
+}
+
+.amcharts-amexport-top .amcharts-amexport-item > .amcharts-amexport-menu {
+  top: -3px !important;
+  left: 2px;
+  bottom: 40px !important;
+}
+
+.amcharts-amexport-menu-level-0.amcharts-amexport-bottom {
+  top: auto;
+  bottom: 40px !important;
+}
+
+.amcharts-amexport-item.amcharts-amexport-item-level-0 a {
+  color: #b713a6;
+}
+
 .title-map {
   &_h1 {
     margin-top: 30px;
