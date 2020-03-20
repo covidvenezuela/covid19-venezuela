@@ -42,7 +42,7 @@
 
       var label = chart.chartContainer.createChild(am4core.Label)
       label.text =
-        'Caracas (8), Miranda (20), La Guaira (5), Aragua (2), Anzoátegui (2), Mérida (1), Cojedes (1), Apure (1) y Zulia(1) ?(1)'
+        'Caracas (9), Miranda (20), La Guaira (5), Aragua (2), Anzoátegui (2), Mérida (1), Cojedes (1), Apure (1) y Zulia(1)'
       label.fontSize = 18
       label.paddingBottom = 50
       label.align = 'center'
@@ -93,7 +93,7 @@
       // Caracas (8), Miranda (17), La Guaira (5), Aragua (2), Anzoátegui (2), Mérida (1), Cojedes (1), Apure (1) Zulia(1) ?(1).
       imageSeries.data = [
         {
-          title: 'Caracas 8 Casos',
+          title: 'Caracas 9 Casos',
           latitude: 10.4880104,
           longitude: -66.9791885,
           color: am4core.color('#ff0000')
