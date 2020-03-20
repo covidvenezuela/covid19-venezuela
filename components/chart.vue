@@ -42,8 +42,8 @@
       confirmados.dataFields.categoryX = 'date'
       confirmados.name = 'Confirmados'
       confirmados.strokeWidth = 3
-      confirmados.fill = am4core.color('#3298dc')
-      confirmados.stroke = am4core.color('#3298dc')
+      confirmados.fill = am4core.color('#f14668')
+      confirmados.stroke = am4core.color('#f14668')
       confirmados.bullets.push(new am4charts.CircleBullet())
 
       let sanados = chart.series.push(new am4charts.LineSeries())
@@ -60,8 +60,8 @@
       fallecidos.dataFields.categoryX = 'date'
       fallecidos.name = 'Fallecidos'
       fallecidos.strokeWidth = 3
-      fallecidos.fill = am4core.color('#f14668')
-      fallecidos.stroke = am4core.color('#f14668')
+      fallecidos.fill = am4core.color('#3298dc')
+      fallecidos.stroke = am4core.color('#3298dc')
       fallecidos.bullets.push(new am4charts.CircleBullet())
 
       confirmados.tooltipText = '{valueY.value}'

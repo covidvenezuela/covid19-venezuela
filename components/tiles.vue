@@ -5,26 +5,26 @@
         <strong>CORONAVIRUS VENEZUELA</strong>
       </h1>
     </div>
-    <nav class="level is-mobile padding-top">
-      <div class="level-item has-text-centered">
+    <nav class="level status is-mobile padding-top">
+      <div class="status_item level-item has-text-centered">
         <div>
-          <p class="heading has-text-info">Confirmados</p>
-          <p class="title has-text-info">42</p>
+          <p class="heading has-text-danger">Confirmados</p>
+          <p class="title has-text-danger">42</p>
         </div>
       </div>
-      <div class="level-item has-text-centered">
+      <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-primary">Sanados</p>
           <p class="title has-text-primary">0</p>
         </div>
       </div>
-      <div class="level-item has-text-centered">
+      <div class="status_item level-item has-text-centered">
         <div>
-          <p class="heading has-text-danger">Fallecidos</p>
-          <p class="title has-text-danger">0</p>
+          <p class="heading has-text-info">Fallecidos</p>
+          <p class="title has-text-info">0</p>
         </div>
       </div>
-      <div class="level-item has-text-centered">
+      <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-success">Activos</p>
           <p class="title has-text-success">42</p>
@@ -39,13 +39,20 @@
 </script>
 
 <style lang="scss">
+  .status {
+    &_item {
+      background-color: #f5f5f5;
+      padding: 20px;
+    }
+  }
   .heading {
     font-size: 16px !important;
   }
   .title-magenta {
-      strong {
-            color: #b713a6 !important;
-      }
+    margin-top: 20px;
+    strong {
+      color: #b713a6 !important;
+    }
   }
   .padding-top {
     margin-top: 1.5rem;
