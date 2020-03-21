@@ -1,5 +1,5 @@
 <template>
-  <div class="title-map">
+  <div id="mapa" class="title-map">
     <div class="has-text-centered">
       <h1 class="is-size-2 title-map_h1">
         <strong class="has-text-danger">CASOS POR ESTADO 2020-03-20</strong>

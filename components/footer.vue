@@ -2,9 +2,29 @@
   <footer id="footer" class="footer">
     <div class="container">
       <div id="date" class="has-text-centered">
-        <strong>Actualizado: Viernes 20 de Marzo 7:23 pm </strong>
+        <h4><strong>Actualizado: Sábado 21 de Marzo 7:23 am </strong></h4>
       </div>
-      <div class="content has-text-centered">
+      <div id="terminos" class="content has-text-centered">
+        <hr />
+        <h4><strong>Términos de uso</strong></h4>
+        <p>
+          Este repositorio de GitHub y sus contenidos en este documento,
+          incluidos todos los datos, mapas y análisis, son de propiedad
+          intelectual del equipo de Covidvenezuela, todos los derechos
+          reservados, se proporcionan al público estrictamente con fines de
+          investigación académica y educativa. El sitio web se basa en datos
+          disponibles públicamente de múltiples fuentes, que no siempre están de
+          acuerdo. El equipo de Covidvenezuela por la presente renuncia a todas
+          y cada una de las representaciones y garantías con respecto al sitio
+          web, incluida la precisión, la idoneidad para el uso y la
+          comerciabilidad.
+          <strong>Se prohíbe estrictamente confiar en el sitio web</strong> para
+          obtener orientación médica o el uso del sitio web en el comercio.
+        </p>
+      </div>
+      <div id="fuentes" class="content has-text-centered">
+        <hr />
+        <h4><strong>Fuentes</strong></h4>
         <p>
           <strong>Coronavirus COVID-19 </strong> Casos reportados por el
           <strong>Gobierno de Venezuela</strong> y extración datos globales para
@@ -20,12 +40,15 @@
             >Ministerio del Poder Popular para la Comunicación y la Información
             MippCI</a
           ><br />
-          <a href="https://www.elnacional.com/venezuela/venezuela-registro-19-nuevos-casos-de-coronavirus-este-viernes/"
+          <a
+            href="https://www.elnacional.com/venezuela/venezuela-registro-19-nuevos-casos-de-coronavirus-este-viernes/"
             >elnacional.com</a
-          ><br>
+          ><br />
           <a href="https://www.worldometers.info/coronavirus/"
             >worldometers | COVID-19 CORONAVIRUS OUTBREAK</a
-          ><br>
+          ><br />
+          <hr />
+        <h4><strong>Contacto</strong></h4>
           <a href="mailto:covidvenezuela@gmail.com">covidvenezuela@gmail.com</a>
         </p>
       </div>

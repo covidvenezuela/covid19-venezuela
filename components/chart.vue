@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="has-text-centered">
+    <div id="chart" class="has-text-centered">
       <h1 class="is-size-2 title-map_h1">
         <strong class="has-text-danger">HISTORICO DIARIO 2020-03-20</strong>
       </h1>
