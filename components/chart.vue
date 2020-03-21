@@ -82,10 +82,10 @@
       fallecidos.bullets.push(new am4charts.CircleBullet())
 
       // Create Tool-tip
-      activos.tooltipText = '{valueY.value}'
       confirmados.tooltipText = '{valueY.value}'
       sanados.tooltipText = '{valueY.value}'
       fallecidos.tooltipText = '{valueY.value}'
+      activos.tooltipText = '{valueY.value}'
       chart.cursor = new am4charts.XYCursor()
 
       let scrollbarX = new am4charts.XYChartScrollbar()
