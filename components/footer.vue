@@ -2,7 +2,7 @@
   <footer id="footer" class="footer">
     <div class="container">
       <div id="date" class="has-text-centered">
-        <strong>Actualizado: Jueves 19 de Marzo 3:51 pm </strong>
+        <strong>Actualizado: Viernes 20 de Marzo 7:23 pm </strong>
       </div>
       <div class="content has-text-centered">
         <p>

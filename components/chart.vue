@@ -2,7 +2,7 @@
   <div class="container">
     <div class="has-text-centered">
       <h1 class="is-size-2 title-map_h1">
-        <strong class="has-text-danger">HISTORICO DIARIO</strong>
+        <strong class="has-text-danger">HISTORICO DIARIO 2020-03-20</strong>
       </h1>
     </div>
     <div class="chart" ref="chartdiv"></div>
@@ -24,7 +24,7 @@ export default {
     chart.paddingRight = 10
 
     // Set up data source
-    chart.dataSource.url = '/covid19-venezuela/chart/2020-19-03.csv'
+    chart.dataSource.url = '/covid19-venezuela/chart/2020-20-03.csv'
     chart.dataSource.parser = new am4core.CSVParser()
     chart.dataSource.parser.options.useColumnNames = true
 
