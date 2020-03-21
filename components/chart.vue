@@ -41,16 +41,6 @@
       valueAxis.tooltip.disabled = true
       valueAxis.renderer.minWidth = 35
 
-      // Create Activos
-      let activos = chart.series.push(new am4charts.LineSeries())
-      activos.dataFields.valueY = 'activos'
-      activos.dataFields.categoryX = 'date'
-      activos.name = 'Activos'
-      activos.strokeWidth = 3
-      activos.fill = am4core.color('#48c774')
-      activos.stroke = am4core.color('#48c774')
-      activos.bullets.push(new am4charts.CircleBullet())
-
       // Create COnfirmados
       let confirmados = chart.series.push(new am4charts.LineSeries())
       confirmados.dataFields.valueY = 'confirmados'
@@ -80,6 +70,16 @@
       fallecidos.fill = am4core.color('#3298dc')
       fallecidos.stroke = am4core.color('#3298dc')
       fallecidos.bullets.push(new am4charts.CircleBullet())
+
+      // Create Activos
+      let activos = chart.series.push(new am4charts.LineSeries())
+      activos.dataFields.valueY = 'activos'
+      activos.dataFields.categoryX = 'date'
+      activos.name = 'Activos'
+      activos.strokeWidth = 3
+      activos.fill = am4core.color('#48c774')
+      activos.stroke = am4core.color('#48c774')
+      activos.bullets.push(new am4charts.CircleBullet())
 
       // Create Tool-tip
       confirmados.tooltipText = '{valueY.value}'
