@@ -41,6 +41,16 @@
       valueAxis.tooltip.disabled = true
       valueAxis.renderer.minWidth = 35
 
+      // Create Activos
+      let activos = chart.series.push(new am4charts.LineSeries())
+      activos.dataFields.valueY = 'activos'
+      activos.dataFields.categoryX = 'date'
+      activos.name = 'Activos'
+      activos.strokeWidth = 3
+      activos.fill = am4core.color('#48c774')
+      activos.stroke = am4core.color('#48c774')
+      activos.bullets.push(new am4charts.CircleBullet())
+
       // Create COnfirmados
       let confirmados = chart.series.push(new am4charts.LineSeries())
       confirmados.dataFields.valueY = 'confirmados'
@@ -51,6 +61,7 @@
       confirmados.stroke = am4core.color('#f14668')
       confirmados.bullets.push(new am4charts.CircleBullet())
 
+      // Create Sanados
       let sanados = chart.series.push(new am4charts.LineSeries())
       sanados.dataFields.valueY = 'sanados'
       sanados.dataFields.categoryX = 'date'
@@ -60,6 +71,7 @@
       sanados.stroke = am4core.color('#00d1b2')
       sanados.bullets.push(new am4charts.CircleBullet())
 
+      // Create Fallecidos
       let fallecidos = chart.series.push(new am4charts.LineSeries())
       fallecidos.dataFields.valueY = 'fallecidos'
       fallecidos.dataFields.categoryX = 'date'
@@ -69,19 +81,11 @@
       fallecidos.stroke = am4core.color('#3298dc')
       fallecidos.bullets.push(new am4charts.CircleBullet())
 
-      let activos = chart.series.push(new am4charts.LineSeries())
-      activos.dataFields.valueY = 'activos'
-      activos.dataFields.categoryX = 'date'
-      activos.name = 'Activos'
-      activos.strokeWidth = 3
-      activos.fill = am4core.color('#48c774')
-      activos.stroke = am4core.color('#48c774')
-      activos.bullets.push(new am4charts.CircleBullet())
-
+      // Create Tool-tip
+      activos.tooltipText = '{valueY.value}'
       confirmados.tooltipText = '{valueY.value}'
       sanados.tooltipText = '{valueY.value}'
       fallecidos.tooltipText = '{valueY.value}'
-      activos.tooltipText = '{valueY.value}'
       chart.cursor = new am4charts.XYCursor()
 
       let scrollbarX = new am4charts.XYChartScrollbar()

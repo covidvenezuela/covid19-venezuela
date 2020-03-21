@@ -1,67 +1,67 @@
 [
-    {
-      "title": "Caracas 10 Casos",
-      "latitude": 10.4880104,
-      "longitude": -66.9791885
-    },
-    {
-      "title": "Miranda 24 Casos",
-      "latitude": 10.2959803,
-      "longitude": -66.3534698
-    },
-    {
-      "title": "Vargas 9 Casos",
-      "latitude": 10.5880104,
-      "longitude": -66.6791885
-    },
-    {
-      "title": "Aragua 6 Casos",
-      "latitude": 10.2353497,
-      "longitude": -67.3911331
-    },
-    {
-      "title": "Anzoátegui 2 Casos",
-      "latitude": 9.7362495,
-      "longitude": -64.6861801
-    },
-    {
-      "title": "Mérida 1 Caso",
-      "latitude": 8.5897198,
-      "longitude": -71.1561127
-    },
-    {
-      "title": "Cojedes 1 Caso",
-      "latitude": 9.6612396,
-      "longitude": -68.5826797
-    },
-    {
-      "title": "Apure 1 Caso",
-      "latitude": 7.5878198,
-      "longitude": -67.4723587
-    },
-    {
-      "title": "Zulia 1 Caso",
-      "latitude": 10.6666298,
-      "longitude": -71.6124496
-    },
-    {
-      "title": "Falcón 2 Casos",
-      "latitude": 11.6955996,
-      "longitude": -70.1995697
-    },
-    {
-      "title": "Monagas 1 Caso",
-      "latitude": 9.7456903,
-      "longitude": -63.1832314
-    },
-    {
-      "title": "Lara 1 Caso",
-      "latitude": 10.0647001,
-      "longitude": -69.3570328
-    },
-    {
-      "title": "Dep. Federales 2 Casos",
-      "latitude": 11.948684,
-      "longitude": -66.676443
-    }
-  ]
+  {
+    "title": "Caracas 10 Casos",
+    "latitude": 10.4880104,
+    "longitude": -66.9791885
+  },
+  {
+    "title": "Miranda 24 Casos",
+    "latitude": 10.2959803,
+    "longitude": -66.3534698
+  },
+  {
+    "title": "Vargas 9 Casos",
+    "latitude": 10.5880104,
+    "longitude": -66.6791885
+  },
+  {
+    "title": "Aragua 6 Casos",
+    "latitude": 10.2353497,
+    "longitude": -67.3911331
+  },
+  {
+    "title": "Anzoátegui 2 Casos",
+    "latitude": 9.7362495,
+    "longitude": -64.6861801
+  },
+  {
+    "title": "Mérida 1 Caso",
+    "latitude": 8.5897198,
+    "longitude": -71.1561127
+  },
+  {
+    "title": "Cojedes 1 Caso",
+    "latitude": 9.6612396,
+    "longitude": -68.5826797
+  },
+  {
+    "title": "Apure 1 Caso",
+    "latitude": 7.5878198,
+    "longitude": -67.4723587
+  },
+  {
+    "title": "Zulia 1 Caso",
+    "latitude": 10.6666298,
+    "longitude": -71.6124496
+  },
+  {
+    "title": "Falcón 2 Casos",
+    "latitude": 11.6955996,
+    "longitude": -70.1995697
+  },
+  {
+    "title": "Monagas 1 Caso",
+    "latitude": 9.7456903,
+    "longitude": -63.1832314
+  },
+  {
+    "title": "Lara 1 Caso",
+    "latitude": 10.0647001,
+    "longitude": -69.3570328
+  },
+  {
+    "title": "Dep. Federales 2 Casos",
+    "latitude": 11.748684,
+    "longitude": -66.676443
+  }
+]
