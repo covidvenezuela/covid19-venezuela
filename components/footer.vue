@@ -20,6 +20,12 @@
             >Ministerio del Poder Popular para la Comunicación y la Información
             MippCI</a
           ><br />
+          <a href="https://www.elnacional.com/venezuela/venezuela-registro-19-nuevos-casos-de-coronavirus-este-viernes/"
+            >elnacional.com</a
+          ><br>
+          <a href="https://www.worldometers.info/coronavirus/"
+            >worldometers | COVID-19 CORONAVIRUS OUTBREAK</a
+          ><br>
           <a href="mailto:covidvenezuela@gmail.com">covidvenezuela@gmail.com</a>
         </p>
       </div>

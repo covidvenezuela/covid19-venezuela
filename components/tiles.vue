@@ -9,13 +9,13 @@
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-danger">Confirmados</p>
-          <p class="title has-text-danger">42</p>
+          <p class="title has-text-danger">65</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-primary">Sanados</p>
-          <p class="title has-text-primary">0</p>
+          <p class="title has-text-primary">1</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
@@ -27,7 +27,7 @@
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-success">Activos</p>
-          <p class="title has-text-success">42</p>
+          <p class="title has-text-success">64</p>
         </div>
       </div>
     </nav>
@@ -35,44 +35,43 @@
 </template>
 
 <script>
-export default {}
+  export default {}
 </script>
 
 <style lang="scss">
-@import '~bulma/sass/utilities/all';
-.status {
-  &_item {
-    background-color: #f5f5f5;
-    padding: 3px 20px;
-    margin-bottom: 2px !important;
-    margin-right: 2px;
-    margin-left: 2px;
-    @include mobile {
-      margin-right: 10px;
-      margin-left: 10px;
+  @import '~bulma/sass/utilities/all';
+  .status {
+    &_item {
+      background-color: #f5f5f5;
+      padding: 3px 20px;
+      margin-bottom: 2px !important;
+      margin-right: 2px;
+      margin-left: 2px;
+      @include mobile {
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+    }
+    .title {
+      padding-bottom: 5px;
     }
   }
-  .title {
-    padding-bottom: 5px;
+  .heading {
+    font-size: 22px !important;
+    margin-bottom: 0px !important;
   }
-}
-.heading {
-  font-size: 22px !important;
-  margin-bottom: 0px !important;
-}
-.title-magenta {
-  margin-top: 20px;
-  @include mobile {
-    font-size: 1.8rem !important;
+  .title-magenta {
+    margin-top: 20px;
+    @include mobile {
+      font-size: 1.8rem !important;
+    }
+    strong {
+      color: #b713a6 !important;
+      line-height: 1;
+      display: inline-block;
+    }
   }
-
-  strong {
-    color: #b713a6 !important;
-    line-height: 1;
-    display: inline-block;
+  .padding-top {
+    margin-top: 0.5rem;
   }
-}
-.padding-top {
-  margin-top: 0.5rem;
-}
 </style>
