@@ -2,7 +2,7 @@
   <div id="mapa" class="title-map">
     <div class="has-text-centered">
       <h1 class="is-size-2 title-map_h1">
-        <strong class="has-text-danger">CASOS POR ESTADO 2020-03-21</strong>
+        <strong class="has-text-danger">CASOS POR ESTADO</strong>
       </h1>
     </div>
     <div class="container is-fullhd">
@@ -70,7 +70,8 @@
       marker.width = 48
       marker.height = 48
       marker.nonScaling = true
-      marker.tooltipText = '{title}'
+      marker.tooltipText =
+        '[bold]{estado}[/]\n [bold]{confirmados}[/] {sufijo} Confirmados\n [bold]{sospechosos}[/] Sospechosos'
       marker.horizontalCenter = 'middle'
       marker.verticalCenter = 'middle'
       marker.properties.fill = '#f14668'

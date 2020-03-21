@@ -2,7 +2,7 @@
   <div class="container">
     <div id="chart" class="has-text-centered">
       <h1 class="is-size-2 title-map_h1">
-        <strong class="has-text-danger">HISTORICO DIARIO 2020-03-21</strong>
+        <strong class="has-text-danger">HISTORICO DIARIO NACIONAL</strong>
       </h1>
     </div>
     <div class="chart" ref="chartdiv"></div>
