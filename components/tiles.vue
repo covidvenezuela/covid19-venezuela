@@ -9,13 +9,13 @@
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-danger">Confirmados</p>
-          <p class="title has-text-danger">65</p>
+          <p class="title has-text-danger">70</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-primary">Sanados</p>
-          <p class="title has-text-primary">1</p>
+          <p class="title has-text-primary">15</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
@@ -27,7 +27,7 @@
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-success">Activos</p>
-          <p class="title has-text-success">64</p>
+          <p class="title has-text-success">55</p>
         </div>
       </div>
     </nav>
