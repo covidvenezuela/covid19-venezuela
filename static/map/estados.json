@@ -1,7 +1,7 @@
 [
   {
     "estado": "Miranda",
-    "confirmados": 26,
+    "confirmados": 30,
     "sospechosos": 13,
     "sufijo": "Casos",
     "latitude": 10.2959803,
@@ -9,7 +9,7 @@
   },
   {
     "estado": "Caracas",
-    "confirmados": 16,
+    "confirmados": 19,
     "sospechosos": 21,
     "sufijo": "Casos",
     "latitude": 10.4880104,
@@ -56,22 +56,6 @@
     "longitude": -67.4723587
   },
   {
-    "estado": "Cojedes",
-    "confirmados": 1,
-    "sospechosos": 1,
-    "sufijo": "Caso",
-    "latitude": 9.6612396,
-    "longitude": -68.5826797
-  },
-  {
-    "estado": "Lara",
-    "confirmados": 1,
-    "sospechosos": 10,
-    "sufijo": "Caso",
-    "latitude": 10.0647001,
-    "longitude": -69.3570328
-  },
-  {
     "estado": "Mérida",
     "confirmados": 1,
     "sospechosos": 30,
@@ -88,28 +72,28 @@
     "longitude": -63.1832314
   },
   {
+    "estado": "Lara",
+    "confirmados": 1,
+    "sospechosos": 10,
+    "sufijo": "Caso",
+    "latitude": 10.0647001,
+    "longitude": -69.3570328
+  },
+  {
+    "estado": "Cojedes",
+    "confirmados": 1,
+    "sospechosos": 1,
+    "sufijo": "Caso",
+    "latitude": 9.6612396,
+    "longitude": -68.5826797
+  },
+  {
     "estado": "Zulia",
     "confirmados": 1,
     "sospechosos": 0,
     "sufijo": "Caso",
     "latitude": 10.6666298,
     "longitude": -71.6124496
-  },
-  {
-    "estado": "Amazonas",
-    "confirmados": 0,
-    "sospechosos": 2,
-    "sufijo": "Caso",
-    "latitude": 0,
-    "longitude": 0
-  },
-  {
-    "estado": "Delta Amacuro",
-    "confirmados": 0,
-    "sospechosos": 21,
-    "sufijo": "Caso",
-    "latitude": 0,
-    "longitude": 0
   },
   {
     "estado": "Táchira",
@@ -128,6 +112,22 @@
     "longitude": 0
   },
   {
+    "estado": "Nueva Esparta",
+    "confirmados": 1,
+    "sospechosos": 0,
+    "sufijo": "Caso",
+    "latitude": 10.9577103,
+    "longitude": -63.869709
+  },
+  {
+    "estado": "Delta Amacuro",
+    "confirmados": 0,
+    "sospechosos": 21,
+    "sufijo": "Caso",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
     "estado": "Yaracuy",
     "confirmados": 0,
     "sospechosos": 4,
@@ -136,11 +136,11 @@
     "longitude": 0
   },
   {
-    "estado": "Nueva Esparta",
-    "confirmados": 1,
-    "sospechosos": 0,
+    "estado": "Amazonas",
+    "confirmados": 0,
+    "sospechosos": 2,
     "sufijo": "Caso",
-    "latitude": 10.9577103,
-    "longitude": -63.869709
+    "latitude": 0,
+    "longitude": 0
   }
 ]
