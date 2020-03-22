@@ -41,8 +41,8 @@
             MippCI</a
           ><br />
           <a
-            href="https://www.elnacional.com/venezuela/venezuela-registro-19-nuevos-casos-de-coronavirus-este-viernes/"
-            >elnacional.com</a
+            href="http://api2.avn.info.ve/media/fotografia/202003/orge1584824203.jpg?width=2048&height=0"
+            >http://www.avn.info.ve/</a
           ><br />
           <a href="https://www.worldometers.info/coronavirus/"
             >worldometers | COVID-19 CORONAVIRUS OUTBREAK</a
