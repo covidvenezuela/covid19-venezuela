@@ -95,6 +95,6 @@
 <style>
   .chart-cases {
     width: 96%;
-    height: 750px;
+    height: 800px;
   }
 </style>

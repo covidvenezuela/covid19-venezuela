@@ -1,7 +1,7 @@
 [
   {
     "estado": "Miranda",
-    "confirmados": 24,
+    "confirmados": 26,
     "sospechosos": 13,
     "sufijo": "Casos",
     "latitude": 10.2959803,
@@ -9,7 +9,7 @@
   },
   {
     "estado": "Caracas",
-    "confirmados": 19,
+    "confirmados": 16,
     "sospechosos": 21,
     "sufijo": "Casos",
     "latitude": 10.4880104,
@@ -17,7 +17,7 @@
   },
   {
     "estado": "Vargas",
-    "confirmados": 9,
+    "confirmados": 8,
     "sospechosos": 15,
     "sufijo": "Casos",
     "latitude": 10.5880104,
@@ -40,14 +40,6 @@
     "longitude": -64.6861801
   },
   {
-    "estado": "D. Federales",
-    "confirmados": 2,
-    "sospechosos": 0,
-    "sufijo": "Casos",
-    "latitude": 11.848684,
-    "longitude": -66.676443
-  },
-  {
     "estado": "Falcón",
     "confirmados": 2,
     "sospechosos": 0,
@@ -57,9 +49,9 @@
   },
   {
     "estado": "Apure",
-    "confirmados": 1,
+    "confirmados": 2,
     "sospechosos": 0,
-    "sufijo": "Caso",
+    "sufijo": "Casos",
     "latitude": 7.5878198,
     "longitude": -67.4723587
   },
@@ -112,7 +104,7 @@
     "longitude": 0
   },
   {
-    "estado": "D. Amacuro",
+    "estado": "Delta Amacuro",
     "confirmados": 0,
     "sospechosos": 21,
     "sufijo": "Caso",
@@ -121,8 +113,16 @@
   },
   {
     "estado": "Táchira",
-    "confirmados": 0,
+    "confirmados": 1,
     "sospechosos": 13,
+    "sufijo": "Caso",
+    "latitude": 7.7669401,
+    "longitude": -72.2249985
+  },
+  {
+    "estado": "Portuguesa",
+    "confirmados": 1,
+    "sospechosos": 0,
     "sufijo": "Caso",
     "latitude": 0,
     "longitude": 0
@@ -134,5 +134,13 @@
     "sufijo": "Caso",
     "latitude": 0,
     "longitude": 0
+  },
+  {
+    "estado": "Nueva Esparta",
+    "confirmados": 1,
+    "sospechosos": 0,
+    "sufijo": "Caso",
+    "latitude": 10.9577103,
+    "longitude": -63.869709
   }
 ]
