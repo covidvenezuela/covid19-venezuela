@@ -1,146 +1,146 @@
 [
-  {
-    "estado": "Miranda",
-    "confirmados": 30,
-    "sospechosos": 13,
-    "sufijo": "Casos",
-    "latitude": 10.2959803,
-    "longitude": -66.3534698
-  },
-  {
-    "estado": "Caracas",
-    "confirmados": 19,
-    "sospechosos": 21,
-    "sufijo": "Casos",
-    "latitude": 10.4880104,
-    "longitude": -66.9791885
-  },
-  {
-    "estado": "Vargas",
-    "confirmados": 8,
-    "sospechosos": 15,
-    "sufijo": "Casos",
-    "latitude": 10.5880104,
-    "longitude": -66.6791885
-  },
-  {
-    "estado": "Aragua",
-    "confirmados": 6,
-    "sospechosos": 1,
-    "sufijo": "Casos",
-    "latitude": 10.2353497,
-    "longitude": -67.3911331
-  },
-  {
-    "estado": "Anzoátegui",
-    "confirmados": 2,
-    "sospechosos": 14,
-    "sufijo": "Casos",
-    "latitude": 9.7362495,
-    "longitude": -64.6861801
-  },
-  {
-    "estado": "Falcón",
-    "confirmados": 2,
-    "sospechosos": 0,
-    "sufijo": "Casos",
-    "latitude": 11.6955996,
-    "longitude": -70.1995697
-  },
-  {
-    "estado": "Apure",
-    "confirmados": 2,
-    "sospechosos": 0,
-    "sufijo": "Casos",
-    "latitude": 7.5878198,
-    "longitude": -67.4723587
-  },
-  {
-    "estado": "Mérida",
-    "confirmados": 1,
-    "sospechosos": 30,
-    "sufijo": "Caso",
-    "latitude": 8.5897198,
-    "longitude": -71.1561127
-  },
-  {
-    "estado": "Monagas",
-    "confirmados": 1,
-    "sospechosos": 13,
-    "sufijo": "Caso",
-    "latitude": 9.7456903,
-    "longitude": -63.1832314
-  },
-  {
-    "estado": "Lara",
-    "confirmados": 1,
-    "sospechosos": 10,
-    "sufijo": "Caso",
-    "latitude": 10.0647001,
-    "longitude": -69.3570328
-  },
-  {
-    "estado": "Cojedes",
-    "confirmados": 1,
-    "sospechosos": 1,
-    "sufijo": "Caso",
-    "latitude": 9.6612396,
-    "longitude": -68.5826797
-  },
-  {
-    "estado": "Zulia",
-    "confirmados": 1,
-    "sospechosos": 0,
-    "sufijo": "Caso",
-    "latitude": 10.6666298,
-    "longitude": -71.6124496
-  },
-  {
-    "estado": "Táchira",
-    "confirmados": 1,
-    "sospechosos": 13,
-    "sufijo": "Caso",
-    "latitude": 7.7669401,
-    "longitude": -72.2249985
-  },
-  {
-    "estado": "Portuguesa",
-    "confirmados": 1,
-    "sospechosos": 0,
-    "sufijo": "Caso",
-    "latitude": 0,
-    "longitude": 0
-  },
-  {
-    "estado": "Nueva Esparta",
-    "confirmados": 1,
-    "sospechosos": 0,
-    "sufijo": "Caso",
-    "latitude": 10.9577103,
-    "longitude": -63.869709
-  },
-  {
-    "estado": "Delta Amacuro",
-    "confirmados": 0,
-    "sospechosos": 21,
-    "sufijo": "Caso",
-    "latitude": 0,
-    "longitude": 0
-  },
-  {
-    "estado": "Yaracuy",
-    "confirmados": 0,
-    "sospechosos": 4,
-    "sufijo": "Caso",
-    "latitude": 0,
-    "longitude": 0
-  },
-  {
-    "estado": "Amazonas",
-    "confirmados": 0,
-    "sospechosos": 2,
-    "sufijo": "Caso",
-    "latitude": 0,
-    "longitude": 0
-  }
-]
+    {
+      "estado": "Miranda",
+      "confirmados": 30,
+      "sospechosos": 13,
+      "sufijo": "Casos",
+      "latitude": 10.2959803,
+      "longitude": -66.3534698
+    },
+    {
+      "estado": "Caracas",
+      "confirmados": 19,
+      "sospechosos": 21,
+      "sufijo": "Casos",
+      "latitude": 10.4880104,
+      "longitude": -66.9791885
+    },
+    {
+      "estado": "Vargas",
+      "confirmados": 8,
+      "sospechosos": 15,
+      "sufijo": "Casos",
+      "latitude": 10.5880104,
+      "longitude": -66.6791885
+    },
+    {
+      "estado": "Aragua",
+      "confirmados": 6,
+      "sospechosos": 1,
+      "sufijo": "Casos",
+      "latitude": 10.2353497,
+      "longitude": -67.3911331
+    },
+    {
+      "estado": "Anzoátegui",
+      "confirmados": 2,
+      "sospechosos": 14,
+      "sufijo": "Casos",
+      "latitude": 9.7362495,
+      "longitude": -64.6861801
+    },
+    {
+      "estado": "Falcón",
+      "confirmados": 2,
+      "sospechosos": 0,
+      "sufijo": "Casos",
+      "latitude": 11.6955996,
+      "longitude": -70.1995697
+    },
+    {
+      "estado": "Apure",
+      "confirmados": 2,
+      "sospechosos": 0,
+      "sufijo": "Casos",
+      "latitude": 7.5878198,
+      "longitude": -67.4723587
+    },
+    {
+      "estado": "Mérida",
+      "confirmados": 1,
+      "sospechosos": 30,
+      "sufijo": "Caso",
+      "latitude": 8.5897198,
+      "longitude": -71.1561127
+    },
+    {
+      "estado": "Monagas",
+      "confirmados": 1,
+      "sospechosos": 13,
+      "sufijo": "Caso",
+      "latitude": 9.7456903,
+      "longitude": -63.1832314
+    },
+    {
+      "estado": "Táchira",
+      "confirmados": 1,
+      "sospechosos": 13,
+      "sufijo": "Caso",
+      "latitude": 7.7669401,
+      "longitude": -72.2249985
+    },
+    {
+      "estado": "Lara",
+      "confirmados": 1,
+      "sospechosos": 10,
+      "sufijo": "Caso",
+      "latitude": 10.0647001,
+      "longitude": -69.3570328
+    },
+    {
+      "estado": "Cojedes",
+      "confirmados": 1,
+      "sospechosos": 1,
+      "sufijo": "Caso",
+      "latitude": 9.6612396,
+      "longitude": -68.5826797
+    },
+    {
+      "estado": "Zulia",
+      "confirmados": 1,
+      "sospechosos": 0,
+      "sufijo": "Caso",
+      "latitude": 10.6666298,
+      "longitude": -71.6124496
+    },
+    {
+      "estado": "Portuguesa",
+      "confirmados": 1,
+      "sospechosos": 0,
+      "sufijo": "Caso",
+      "latitude": 9.0418301,
+      "longitude": -69.7420578
+    },
+    {
+      "estado": "Nueva Esparta",
+      "confirmados": 1,
+      "sospechosos": 0,
+      "sufijo": "Caso",
+      "latitude": 10.9577103,
+      "longitude": -63.869709
+    },
+    {
+      "estado": "Delta Amacuro",
+      "confirmados": 0,
+      "sospechosos": 21,
+      "sufijo": "Caso",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "estado": "Yaracuy",
+      "confirmados": 0,
+      "sospechosos": 4,
+      "sufijo": "Caso",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "estado": "Amazonas",
+      "confirmados": 0,
+      "sospechosos": 2,
+      "sufijo": "Caso",
+      "latitude": 0,
+      "longitude": 0
+    }
+  ]
