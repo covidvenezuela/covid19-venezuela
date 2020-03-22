@@ -8,6 +8,7 @@ https://es.wikipedia.org/wiki/COVID-19
 <b>Fuente de datos:</b><br>
 
 - Ministerio del Poder Popular para la Comunicación y la Información (MippCI) (WHO): http://www.minci.gob.ve/presidencial/ <br><br>
+- AVN: http://api2.avn.info.ve/media/fotografia/202003/orge1584824203.jpg?width=2048&height=0 <br><br>
 
 <b>SARS-CoV-2:</b><br>
 

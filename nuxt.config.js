@@ -11,10 +11,20 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'COVID-19  en Venezuela' || '',
+    title: 'COVID-19 Venezuela',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'COVID-19 en Venezuela'
+      },
+      {
+        hid: 'robots',
+        name: 'robots',
+        content: 'index, follow'
+      },
       {
         hid: 'twitter:card',
         name: 'twitter:card',
@@ -73,11 +83,6 @@ export default {
         hid: 'og:description',
         name: 'og:description',
         content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
-      },
-      {
-        hid: 'description',
-        name: 'description',
-        content: 'COVID-19  en Venezuela' || ''
       }
     ],
     link: [
