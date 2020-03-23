@@ -64,6 +64,8 @@
       var imageSeries = chart.series.push(new am4maps.MapImageSeries())
 
       var imageSeriesTemplate = imageSeries.mapImages.template
+
+      // Create Sprite circle
       var marker = imageSeriesTemplate.createChild(am4core.Sprite)
       marker.path =
         'M 122.75532,157.33277 A 24.000003,24.000016 0 0 1 98.755327,181.33273 24.000003,24.000016 0 0 1 74.755324,157.33277 24.000003,24.000016 0 0 1 98.755327,133.33271 24.000003,24.000016 0 0 1 122.75532,157.33277 Z'
@@ -76,15 +78,18 @@
       marker.properties.fill = '#f14668'
       marker.properties.strokeOpacity = 0.5
       marker.properties.fillOpacity = 0.5
-      marker.properties.stroke = am4core.color('#000000')
+      marker.properties.stroke = am4core.color('#b713a6')
 
+      // Create Label circle
       let label = imageSeriesTemplate.createChild(am4core.Label)
       label.text = '[bold]{confirmados}[/]'
       label.horizontalCenter = 'middle'
       label.verticalCenter = 'middle'
       label.zIndex = 2
       label.fill = am4core.color('#FFF')
-      label.strokeWidth = 0
+      label.strokeWidth = 1
+      label.nonScaling = true
+
       // Shadow
       let shadow = new am4core.DropShadowFilter()
       shadow.dx = 2
@@ -94,9 +99,11 @@
       let hoverstate = marker.states.create('hover')
       hoverstate.properties.fill = '#b713a6'
       hoverstate.properties.fillOpacity = 1
-      hoverstate.properties.stroke = am4core.color('#000000')
+      hoverstate.properties.stroke = '#000'
       hoverstate.properties.strokeOpacity = 0.8
       hoverstate.properties.index = 99
+      hoverstate.transitionDuration = 100
+      hoverstate.transitionEasing = am4core.ease.elasticInOut
 
       // Set property fields
       imageSeriesTemplate.propertyFields.latitude = 'latitude'
