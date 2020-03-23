@@ -118,29 +118,5 @@
       "sufijo": "Caso",
       "latitude": 10.9577103,
       "longitude": -63.869709
-    },
-    {
-      "estado": "Delta Amacuro",
-      "confirmados": 0,
-      "sospechosos": 21,
-      "sufijo": "Caso",
-      "latitude": 0,
-      "longitude": 0
-    },
-    {
-      "estado": "Yaracuy",
-      "confirmados": 0,
-      "sospechosos": 4,
-      "sufijo": "Caso",
-      "latitude": 0,
-      "longitude": 0
-    },
-    {
-      "estado": "Amazonas",
-      "confirmados": 0,
-      "sospechosos": 2,
-      "sufijo": "Caso",
-      "latitude": 0,
-      "longitude": 0
     }
   ]

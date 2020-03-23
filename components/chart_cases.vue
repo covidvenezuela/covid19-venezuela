@@ -2,7 +2,7 @@
   <div class="container">
     <div id="chart" class="has-text-centered">
       <h1 class="is-size-2 title-map_h1">
-        <strong class="has-text-danger">CONFIRMADOS Y SOSPECHOSOS</strong>
+        <strong class="has-text-danger">CONFIRMADOS POR ESTADO</strong>
       </h1>
     </div>
     <div class="chart-cases" id="chartdivcases"></div>
@@ -55,14 +55,14 @@
         series.stacked = true
 
         // Configure columns
-        series.columns.template.width = am4core.percent(60)
+        series.columns.template.width = am4core.percent(80)
         series.columns.template.tooltipText =
           '[bold]{name}[/]\n[font-size:14px]{categoryY}: {valueX}'
 
         // Add label
         var labelBullet = series.bullets.push(new am4charts.LabelBullet())
-        labelBullet.label.text = '{valueX}'
-        labelBullet.label.fill = am4core.color('#333')
+        labelBullet.label.text = '[bold]{valueX}[/]'
+        labelBullet.label.fill = am4core.color('#FFF')
         labelBullet.locationY = 0.5
         labelBullet.locationX = 0.5
 
@@ -70,7 +70,7 @@
       }
 
       createSeries('confirmados', 'Confirmados')
-      createSeries('sospechosos', 'Sospechosos')
+      //createSeries('sospechosos', 'Sospechosos')
 
       // Create series for total
       var totalSeries = chart.series.push(new am4charts.ColumnSeries())
@@ -81,7 +81,7 @@
       totalSeries.columns.template.strokeOpacity = 0
 
       // Legend
-      chart.legend = new am4charts.Legend()
+      //chart.legend = new am4charts.Legend()
     },
 
     beforeDestroy() {
