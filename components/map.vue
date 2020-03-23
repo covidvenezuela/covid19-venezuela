@@ -70,13 +70,26 @@
       marker.width = 48
       marker.height = 48
       marker.nonScaling = true
-      marker.tooltipText =
-        '[bold]{estado}[/]\n [bold]{confirmados}[/] {sufijo} Confirmados\n [bold]{sospechosos}[/] Sospechosos'
+      marker.tooltipText = '[bold]{estado}[/]\n [bold]{confirmados}[/] {sufijo}'
       marker.horizontalCenter = 'middle'
       marker.verticalCenter = 'middle'
       marker.properties.fill = '#f14668'
-      marker.properties.strokeOpacity = 0
+      marker.properties.strokeOpacity = 0.5
       marker.properties.fillOpacity = 0.5
+      marker.properties.stroke = am4core.color('#000000')
+
+      let label = imageSeriesTemplate.createChild(am4core.Label)
+      label.text = '[bold]{confirmados}[/]'
+      label.horizontalCenter = 'middle'
+      label.verticalCenter = 'middle'
+      label.zIndex = 2
+      label.fill = am4core.color('#FFF')
+      label.strokeWidth = 0
+      // Shadow
+      let shadow = new am4core.DropShadowFilter()
+      shadow.dx = 2
+      shadow.dy = 2
+      marker.filters.push(shadow)
 
       let hoverstate = marker.states.create('hover')
       hoverstate.properties.fill = '#b713a6'
