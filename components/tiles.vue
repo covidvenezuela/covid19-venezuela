@@ -35,54 +35,54 @@
 </template>
 
 <script>
-export default {
-  data() {
-    let json = require('~/static/chart/2020-20-03.json')
-    return {
-      confirmados: 70,
-      sanados: 15,
-      fallecidos: 0,
-      activos: 55,
-      status: json[json.length - 1]
+  export default {
+    data() {
+      let json = require('~/static/chart/2020-23-03.json')
+      return {
+        confirmados: 70,
+        sanados: 15,
+        fallecidos: 0,
+        activos: 55,
+        status: json[json.length - 1]
+      }
     }
   }
-}
 </script>
 
 <style lang="scss">
-@import '~bulma/sass/utilities/all';
-.status {
-  &_item {
-    background-color: #f5f5f5;
-    padding: 3px 20px;
-    margin-bottom: 2px !important;
-    margin-right: 2px;
-    margin-left: 2px;
-    @include mobile {
-      margin-right: 10px;
-      margin-left: 10px;
+  @import '~bulma/sass/utilities/all';
+  .status {
+    &_item {
+      background-color: #f5f5f5;
+      padding: 3px 20px;
+      margin-bottom: 2px !important;
+      margin-right: 2px;
+      margin-left: 2px;
+      @include mobile {
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+    }
+    .title {
+      padding-bottom: 5px;
     }
   }
-  .title {
-    padding-bottom: 5px;
+  .heading {
+    font-size: 22px !important;
+    margin-bottom: 0px !important;
   }
-}
-.heading {
-  font-size: 22px !important;
-  margin-bottom: 0px !important;
-}
-.title-magenta {
-  margin-top: 20px;
-  @include mobile {
-    font-size: 1.8rem !important;
+  .title-magenta {
+    margin-top: 20px;
+    @include mobile {
+      font-size: 1.8rem !important;
+    }
+    strong {
+      color: #b713a6 !important;
+      line-height: 1;
+      display: inline-block;
+    }
   }
-  strong {
-    color: #b713a6 !important;
-    line-height: 1;
-    display: inline-block;
+  .padding-top {
+    margin-top: 0.5rem;
   }
-}
-.padding-top {
-  margin-top: 0.5rem;
-}
 </style>

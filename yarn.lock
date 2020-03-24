@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@amcharts/amcharts4-geodata@^4.1.12":
+  version "4.1.12"
+  resolved "https://registry.npm.taobao.org/@amcharts/amcharts4-geodata/download/@amcharts/amcharts4-geodata-4.1.12.tgz#fcd73e82ca29718d05fa1342346fc1a294a64475"
+  integrity sha1-/Nc+gsopcY0F+hNCNG/BopSmRHU=
+
 "@amcharts/amcharts4@^4.9.9":
   version "4.9.9"
   resolved "https://registry.npm.taobao.org/@amcharts/amcharts4/download/@amcharts/amcharts4-4.9.9.tgz#a491529a5c65f745d412ad5543b7de532031945b"

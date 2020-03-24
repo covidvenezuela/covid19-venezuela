@@ -7,7 +7,7 @@
 </template>
 
 <script>
-  import Map from '~/components/map.vue'
+  import Map from '~/components/mapVenezuela.vue'
   import ChartCases from '~/components/chart_cases.vue'
   import Chart from '~/components/chart.vue'
 

@@ -2,7 +2,7 @@
   <footer id="footer" class="footer">
     <div class="container">
       <div id="date" class="has-text-centered">
-        <h4><strong>Actualizado: Domingo 22 de Marzo 5:10 pm </strong></h4>
+        <h4><strong>Actualizado: Domingo Lunes de Marzo 7:53 pm </strong></h4>
       </div>
       <div id="terminos" class="content has-text-centered">
         <hr />
@@ -39,10 +39,6 @@
           <a target="_blank" href="http://www.minci.gob.ve/presidencial/"
             >Ministerio del Poder Popular para la Comunicación y la Información
             MippCI</a
-          ><br />
-          <a
-            href="http://api2.avn.info.ve/media/fotografia/202003/orge1584824203.jpg?width=2048&height=0"
-            >http://www.avn.info.ve/</a
           ><br />
           <a href="https://www.worldometers.info/coronavirus/"
             >worldometers | COVID-19 CORONAVIRUS OUTBREAK</a

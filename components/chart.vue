@@ -24,7 +24,7 @@
       chart.paddingRight = 10
 
       // Set up data source
-      chart.dataSource.url = '/covid19-venezuela/chart/2020-20-03.json'
+      chart.dataSource.url = '/covid19-venezuela/chart/2020-23-03.json'
       chart.dataSource.parser = new am4core.JSONParser;
       //chart.dataSource.parser = new am4core.CSVParser()
       chart.dataSource.parser.options.useColumnNames = true

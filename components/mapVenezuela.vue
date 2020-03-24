@@ -16,14 +16,14 @@
   import * as am4maps from '@amcharts/amcharts4/maps'
 
   export default {
-    name: 'Maps',
+    name: 'Venezuela',
     mounted() {
       // Create map instance
       var chart = am4core.create('chartdiv', am4maps.MapChart)
-      chart.geodataSource.url = '/covid19-venezuela/geojson/venezuela.json'
+      chart.geodataSource.url = '/covid19-venezuela/geojson/venezuela_hi.json'
 
       // Set map definition
-      chart.geodata = chart.geodataSource.url
+      //chart.geodata = chart.geodataSource.url
 
       chart.exporting.menu = new am4core.ExportMenu()
       chart.exporting.menu.align = 'left'
@@ -40,7 +40,7 @@
 
       // Configure series
       var polygonTemplate = polygonSeries.mapPolygons.template
-      polygonTemplate.tooltipText = '{ESTADO}'
+      polygonTemplate.tooltipText = '{name}'
       polygonTemplate.fill = am4core.color('#bbbbbb')
 
       // Create hover state and set alternative fill color
