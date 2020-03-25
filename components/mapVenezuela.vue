@@ -17,6 +17,9 @@
 
   export default {
     name: 'Venezuela',
+    data() {
+      return {}
+    },
     mounted() {
       // Create map instance
       var chart = am4core.create('chartdiv', am4maps.MapChart)
@@ -72,23 +75,28 @@
       marker.width = 48
       marker.height = 48
       marker.nonScaling = true
-      marker.tooltipText = '[bold]{estado}[/]\n [bold]{confirmados}[/] {sufijo}'
+      marker.tooltipText =
+        '[bold]{Province/State}[/]\n [bold]{Confirmed}[/] Confirmado'
       marker.horizontalCenter = 'middle'
       marker.verticalCenter = 'middle'
       marker.properties.fill = '#f14668'
       marker.properties.strokeOpacity = 0.5
       marker.properties.fillOpacity = 0.5
       marker.properties.stroke = am4core.color('#b713a6')
+      /*       marker.disabled = true
+                marker.propertyFields.disabled = 'disabled' */
 
       // Create Label circle
       let label = imageSeriesTemplate.createChild(am4core.Label)
-      label.text = '[bold]{confirmados}[/]'
+      label.text = '[bold]{Confirmed}[/]'
       label.horizontalCenter = 'middle'
       label.verticalCenter = 'middle'
       label.zIndex = 2
       label.fill = am4core.color('#FFF')
       label.strokeWidth = 1
       label.nonScaling = true
+      /*       label.disabled = true
+                label.propertyFields.disabled = 'disabled' */
 
       // Shadow
       let shadow = new am4core.DropShadowFilter()
@@ -106,11 +114,23 @@
       hoverstate.transitionEasing = am4core.ease.elasticInOut
 
       // Set property fields
-      imageSeriesTemplate.propertyFields.latitude = 'latitude'
-      imageSeriesTemplate.propertyFields.longitude = 'longitude'
-      const estados = require('~/static/map/estados.json')
+      imageSeriesTemplate.propertyFields.latitude = 'Latitude'
+      imageSeriesTemplate.propertyFields.longitude = 'Longitude'
+      const estadosJson = require('~/static/map/statusAmericaLatina.json')
+      let pointers = []
 
-      imageSeries.data = estados
+      for (var i = 0; i < estadosJson.length; i++) {
+        if (estadosJson[i]['Country/Region'] == 'Venezuela') {
+          if (estadosJson[i].Confirmed != 0) {
+            pointers.push(estadosJson[i])
+          }
+          //pointers[i].disabled = true
+        } /* else {
+                    pointers[i].disabled = false
+            }*/
+      }
+
+      imageSeries.data = pointers
 
       // Add zoom control
       chart.zoomControl = new am4maps.ZoomControl()

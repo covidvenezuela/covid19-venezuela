@@ -1,130 +1,242 @@
 [
   {
-    "estado": "Mérida",
-    "confirmados": 1,
-    "sospechosos": 30,
-    "sufijo": "Caso",
-    "latitude": 8.5897198,
-    "longitude": -71.1561127
+    "Province/State": "Amazonas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:21",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 5.66049,
+    "Longitude": -67.5834274
   },
   {
-    "estado": "Monagas",
-    "confirmados": 1,
-    "sospechosos": 13,
-    "sufijo": "Caso",
-    "latitude": 9.7456903,
-    "longitude": -63.1832314
+    "Province/State": "Anzoategui",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:22",
+    "Confirmed": 2,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.21667,
+    "Longitude": -64.6166687
   },
   {
-    "estado": "Táchira",
-    "confirmados": 1,
-    "sospechosos": 13,
-    "sufijo": "Caso",
-    "latitude": 7.7669401,
-    "longitude": -72.2249985
+    "Province/State": "Apure",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:23",
+    "Confirmed": 2,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 7.8878198,
+    "Longitude": -67.4723587
   },
   {
-    "estado": "Lara",
-    "confirmados": 1,
-    "sospechosos": 10,
-    "sufijo": "Caso",
-    "latitude": 10.0647001,
-    "longitude": -69.3570328
+    "Province/State": "Aragua",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:24",
+    "Confirmed": 6,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.2353497,
+    "Longitude": -67.5911331
   },
   {
-    "estado": "Cojedes",
-    "confirmados": 1,
-    "sospechosos": 1,
-    "sufijo": "Caso",
-    "latitude": 9.6612396,
-    "longitude": -68.5826797
+    "Province/State": "Barinas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:25",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 8.6226101,
+    "Longitude": -70.207489
   },
   {
-    "estado": "Zulia",
-    "confirmados": 1,
-    "sospechosos": 0,
-    "sufijo": "Caso",
-    "latitude": 10.6666298,
-    "longitude": -71.6124496
+    "Province/State": "Bolivar",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:26",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 8.1292295,
+    "Longitude": -63.5408592
   },
   {
-    "estado": "Portuguesa",
-    "confirmados": 1,
-    "sospechosos": 0,
-    "sufijo": "Caso",
-    "latitude": 9.0418301,
-    "longitude": -69.7420578
+    "Province/State": "Caracas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:27",
+    "Confirmed": 19,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.4880104,
+    "Longitude": -66.8791885
   },
   {
-    "estado": "Nueva Esparta",
-    "confirmados": 1,
-    "sospechosos": 0,
-    "sufijo": "Caso",
-    "latitude": 10.9577103,
-    "longitude": -63.869709
+    "Province/State": "Carabobo",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:28",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.1620197,
+    "Longitude": -68.0076523
   },
   {
-    "estado": "Anzoátegui",
-    "confirmados": 2,
-    "sospechosos": 14,
-    "sufijo": "Casos",
-    "latitude": 9.7362495,
-    "longitude": -64.6861801
+    "Province/State": "Cojedes",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:29",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 9.6612396,
+    "Longitude": -68.5826797
   },
   {
-    "estado": "Falcón",
-    "confirmados": 2,
-    "sospechosos": 0,
-    "sufijo": "Casos",
-    "latitude": 11.6955996,
-    "longitude": -70.1995697
+    "Province/State": "Delta Amacuro",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:30",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 9.0580597,
+    "Longitude": -62.0499992
   },
   {
-    "estado": "Apure",
-    "confirmados": 2,
-    "sospechosos": 0,
-    "sufijo": "Casos",
-    "latitude": 7.5878198,
-    "longitude": -67.4723587
+    "Province/State": "Falcon",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:31",
+    "Confirmed": 2,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 11.6955996,
+    "Longitude": -70.1995697
   },
   {
-    "estado": "Barinas",
-    "confirmados": 3,
-    "sospechosos": 0,
-    "sufijo": "Casos",
-    "latitude": 70.20135,
-    "longitude": 8.60232
+    "Province/State": "Guarico",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:32",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 9.91152,
+    "Longitude": -67.3538132
   },
   {
-    "estado": "Vargas",
-    "confirmados": 8,
-    "sospechosos": 15,
-    "sufijo": "Casos",
-    "latitude": 10.5880104,
-    "longitude": -66.6791885
+    "Province/State": "Vargas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:33",
+    "Confirmed": 8,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.5962095,
+    "Longitude": -66.9548492
   },
   {
-    "estado": "Aragua",
-    "confirmados": 8,
-    "sospechosos": 1,
-    "sufijo": "Casos",
-    "latitude": 10.2353497,
-    "longitude": -67.3911331
+    "Province/State": "Lara",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:34",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.0647001,
+    "Longitude": -69.3570328
   },
   {
-    "estado": "Caracas",
-    "confirmados": 20,
-    "sospechosos": 21,
-    "sufijo": "Casos",
-    "latitude": 10.4880104,
-    "longitude": -66.9791885
+    "Province/State": "Merida",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:35",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 8.5897198,
+    "Longitude": -71.1561127
   },
   {
-    "estado": "Miranda",
-    "confirmados": 31,
-    "sospechosos": 13,
-    "sufijo": "Casos",
-    "latitude": 10.2959803,
-    "longitude": -66.3534698
+    "Province/State": "Miranda",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:36",
+    "Confirmed": 30,
+    "Deaths": 0,
+    "Recovered": 15,
+    "Latitude": 10.4722605,
+    "Longitude": -66.8015518
+  },
+  {
+    "Province/State": "Monagas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:37",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 9.7456903,
+    "Longitude": -63.1832314
+  },
+  {
+    "Province/State": "Nueva Esparta",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:38",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.9577103,
+    "Longitude": -63.869709
+  },
+  {
+    "Province/State": "Portuguesa",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:39",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 9.0418301,
+    "Longitude": -69.7420578
+  },
+  {
+    "Province/State": "Sucre",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:40",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.45397,
+    "Longitude": -64.1825638
+  },
+  {
+    "Province/State": "Tachira",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:41",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 7.7669401,
+    "Longitude": -72.2249985
+  },
+  {
+    "Province/State": "Trujillo",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:42",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 9.3658304,
+    "Longitude": -70.4369431
+  },
+  {
+    "Province/State": "Yaracuy",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:43",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.3399096,
+    "Longitude": -68.7424698
+  },
+  {
+    "Province/State": "Zulia",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-22T18:08:44",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Latitude": 10.6666298,
+    "Longitude": -71.6124496
   }
 ]

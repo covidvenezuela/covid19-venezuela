@@ -9,25 +9,27 @@
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-danger">Confirmados</p>
-          <p class="title has-text-danger">{{ status.confirmados }}</p>
+          <p class="title has-text-danger">{{ computedConfirmados }}</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-primary">Sanados</p>
-          <p class="title has-text-primary">{{ status.sanados }}</p>
+          <p class="title has-text-primary">{{ computedSanados }}</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-info">Fallecidos</p>
-          <p class="title has-text-info">{{ status.fallecidos }}</p>
+          <p class="title has-text-info">{{ computedfallecidos }}</p>
         </div>
       </div>
       <div class="status_item level-item has-text-centered">
         <div>
           <p class="heading has-text-success">Activos</p>
-          <p class="title has-text-success">{{ status.activos }}</p>
+          <p class="title has-text-success">
+            {{ computedConfirmados - computedSanados - computedfallecidos }}
+          </p>
         </div>
       </div>
     </nav>
@@ -39,11 +41,54 @@
     data() {
       let json = require('~/static/chart/2020-23-03.json')
       return {
-        confirmados: 70,
-        sanados: 15,
-        fallecidos: 0,
-        activos: 55,
-        status: json[json.length - 1]
+        status: json[json.length - 1],
+        dataTotal: []
+      }
+    },
+    mounted() {
+      const jsonTotal = require('~/static/map/statusAmericaLatina.json')
+
+      for (var i = 0; i < jsonTotal.length; i++) {
+        if (jsonTotal[i]['Country/Region'] == 'Venezuela') {
+          if (jsonTotal[i].Confirmed != 0) {
+            this.dataTotal.push(jsonTotal[i])
+          }
+        }
+      }
+    },
+    computed: {
+      computedConfirmados: function() {
+        let total = []
+
+        Object.entries(this.dataTotal).forEach(([key, val]) => {
+          total.push(val.Confirmed) // the value of the current key.
+        })
+
+        return total.reduce(function(total, num) {
+          return total + num
+        }, 0)
+      },
+      computedSanados: function() {
+        let total = []
+
+        Object.entries(this.dataTotal).forEach(([key, val]) => {
+          total.push(val.Recovered) // the value of the current key.
+        })
+
+        return total.reduce(function(total, num) {
+          return total + num
+        }, 0)
+      },
+      computedfallecidos: function() {
+        let total = []
+
+        Object.entries(this.dataTotal).forEach(([key, val]) => {
+          total.push(val.Deaths) // the value of the current key.
+        })
+
+        return total.reduce(function(total, num) {
+          return total + num
+        }, 0)
       }
     }
   }

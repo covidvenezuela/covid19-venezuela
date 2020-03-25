@@ -63,9 +63,20 @@
 
       // Create image series
       var imageSeries = chart.series.push(new am4maps.MapImageSeries())
-      const estados = require('~/static/map/statusAmericaLatina.json')
+      const jsonAmerica = require('~/static/map/statusAmericaLatina.json')
 
-      imageSeries.data = estados
+      let pointersAmerica = []
+
+      for (var i = 0; i < jsonAmerica.length; i++) {
+        if (jsonAmerica[i].Confirmed != 0) {
+          pointersAmerica.push(jsonAmerica[i])
+          //pointers[i].disabled = true
+        } /* else {
+                              pointers[i].disabled = false
+                            }*/
+      }
+
+      imageSeries.data = pointersAmerica
 
       var imageSeriesTemplate = imageSeries.mapImages.template
 
@@ -81,7 +92,7 @@
         marker.height = 48
         marker.nonScaling = true
         marker.tooltipText =
-          '[bold]{Province/State}[/]\n [bold]{Confirmed}[/] Casos'
+          '[bold]{Province/State}[/]\n [bold]{Confirmed}[/] Confirmado'
         marker.horizontalCenter = 'middle'
         marker.verticalCenter = 'middle'
         marker.properties.fill = '#f14668'

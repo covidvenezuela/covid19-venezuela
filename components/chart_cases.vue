@@ -27,13 +27,30 @@
       chart.maskBullets = false
       chart.numberFormatter.numberFormat = '#'
 
-      const estados = require('~/static/map/estados.json')
+      const estadosJson = require('~/static/map/statusAmericaLatina.json')
 
-      chart.data = estados
+      let pointers = []
+
+      for (var i = 0; i < estadosJson.length; i++) {
+        if (estadosJson[i]['Country/Region'] == 'Venezuela') {
+          if (estadosJson[i].Confirmed != 0) {
+            pointers.push(estadosJson[i])
+          }
+          //pointers[i].disabled = true
+        } /* else {
+              pointers[i].disabled = false
+      }*/
+      }
+
+      pointers.sort(function(a, b) {
+        return a.Confirmed - b.Confirmed
+      })
+
+      chart.data = pointers
 
       // Create axes
       var categoryAxis = chart.yAxes.push(new am4charts.CategoryAxis())
-      categoryAxis.dataFields.category = 'estado'
+      categoryAxis.dataFields.category = 'Province/State'
       categoryAxis.renderer.grid.template.location = 0
 
       var valueAxis = chart.xAxes.push(new am4charts.ValueAxis())
@@ -48,7 +65,7 @@
         var series = chart.series.push(new am4charts.ColumnSeries())
         series.name = name
         series.dataFields.valueX = field
-        series.dataFields.categoryY = 'estado'
+        series.dataFields.categoryY = 'Province/State'
         series.sequencedInterpolation = true
 
         // Make it stacked
@@ -69,13 +86,13 @@
         return series
       }
 
-      createSeries('confirmados', 'Confirmados')
+      createSeries('Confirmed', 'Confirmados')
       //createSeries('sospechosos', 'Sospechosos')
 
       // Create series for total
       var totalSeries = chart.series.push(new am4charts.ColumnSeries())
       totalSeries.dataFields.valueX = 'none'
-      totalSeries.dataFields.categoryY = 'estado'
+      totalSeries.dataFields.categoryY = 'Province/State'
       totalSeries.stacked = true
       totalSeries.hiddenInLegend = true
       totalSeries.columns.template.strokeOpacity = 0

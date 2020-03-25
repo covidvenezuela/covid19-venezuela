@@ -3,6 +3,7 @@
     <Map />
     <ChartCases />
     <Chart />
+    <AmericaLatina />
   </div>
 </template>
 
