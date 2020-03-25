@@ -75,5 +75,12 @@
     "sanados": 15,
     "fallecidos": 0,
     "activos": 69
+  },
+  {
+    "date": "2020-03-24",
+    "confirmados": 91,
+    "sanados": 15,
+    "fallecidos": 0,
+    "activos": 76
   }
 ]
