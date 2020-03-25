@@ -1,0 +1,3161 @@
+[
+  {
+    "ISO 3166-2 Code": "AR-C",
+    "Province/State": "Ciudad Autonoma de Buenos Aires",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-B",
+    "Province/State": "Buenos Aires",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-K",
+    "Province/State": "Catamarca",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-H",
+    "Province/State": "Chaco",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-U",
+    "Province/State": "Chubut",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-X",
+    "Province/State": "Cordoba",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-W",
+    "Province/State": "Corrientes",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-E",
+    "Province/State": "Entre Rios",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-P",
+    "Province/State": "Formosa",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-Y",
+    "Province/State": "Jujuy",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-L",
+    "Province/State": "La Pampa",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-F",
+    "Province/State": "La Rioja",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-M",
+    "Province/State": "Mendoza",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-N",
+    "Province/State": "Misiones",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-Q",
+    "Province/State": "Neuquen",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-R",
+    "Province/State": "Rio Negro",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-A",
+    "Province/State": "Salta",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-J",
+    "Province/State": "San Juan",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-D",
+    "Province/State": "San Luis",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-Z",
+    "Province/State": "Santa Cruz",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-S",
+    "Province/State": "Santa Fe",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-V",
+    "Province/State": "Tierra del Fuego",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "AR-T",
+    "Province/State": "Tucuman",
+    "Country/Region": "Argentina",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-B",
+    "Province/State": "Beni",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-H",
+    "Province/State": "Chuquisaca",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-C",
+    "Province/State": "Cochabamba",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-L",
+    "Province/State": "La Paz",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-O",
+    "Province/State": "Oruro",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-N",
+    "Province/State": "Pando",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-P",
+    "Province/State": "Potosi",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-S",
+    "Province/State": "Santa Cruz",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BO-T",
+    "Province/State": "Tarija",
+    "Country/Region": "Bolivia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-AC",
+    "Province/State": "Acre",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-AL",
+    "Province/State": "Alagoas",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-AP",
+    "Province/State": "Amapa",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-AM",
+    "Province/State": "Amazonas",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-BA",
+    "Province/State": "Bahia",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-CE",
+    "Province/State": "Ceara",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-DF",
+    "Province/State": "Distrito Federal",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-ES",
+    "Province/State": "Espiritu Santo",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-GO",
+    "Province/State": "Goias",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-MA",
+    "Province/State": "Maranhao",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-MT",
+    "Province/State": "Mato Grosso",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-MS",
+    "Province/State": "Mato Grosso do Sul",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-MG",
+    "Province/State": "Minas Gerais",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-PA",
+    "Province/State": "Para",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-PB",
+    "Province/State": "Paraiba",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-PR",
+    "Province/State": "Parana",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-PE",
+    "Province/State": "Pernambuco",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-PI",
+    "Province/State": "Piaui",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-RJ",
+    "Province/State": "Rio de Janeiro",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-RN",
+    "Province/State": "Rio Grande do Norte",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-RS",
+    "Province/State": "Rio Grande do Sul",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-RO",
+    "Province/State": "Rondonia",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-RR",
+    "Province/State": "Roraima",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-SC",
+    "Province/State": "Santa Catarina",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-SP",
+    "Province/State": "Sao Paulo",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-SE",
+    "Province/State": "Sergipe",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "BR-TO",
+    "Province/State": "Tocantins",
+    "Country/Region": "Brazil",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CL-AP",
+    "Province/State": "Arica y Parinacota",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 2,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-TA",
+    "Province/State": "Tarapaca",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 4,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-AN",
+    "Province/State": "Antofagasta",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 13,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-AT",
+    "Province/State": "Atacama",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-CO",
+    "Province/State": "Coquimbo",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 11,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-VS",
+    "Province/State": "Valparaiso",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 25,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-RM",
+    "Province/State": "Santiago",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 540,
+    "Deaths": 0,
+    "Recovered": 2
+  },
+  {
+    "ISO 3166-2 Code": "CL-LI",
+    "Province/State": "O'Higgins",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 9,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-ML",
+    "Province/State": "Maule",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 29,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-NB",
+    "Province/State": "Nuble",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 105,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-BI",
+    "Province/State": "Biobio",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 73,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-AR",
+    "Province/State": "Araucania",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 59,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-LR",
+    "Province/State": "Los Rios",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 6,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-LL",
+    "Province/State": "Los Lagos",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 36,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-AI",
+    "Province/State": "Aysen",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CL-MA",
+    "Province/State": "Magallanes",
+    "Country/Region": "Chile",
+    "Last Update": "2020-03-24T23:51:54",
+    "Confirmed": 8,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  {
+    "ISO 3166-2 Code": "CO-AMA",
+    "Province/State": "Amazonas",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-ANT",
+    "Province/State": "Antioquia",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-ARA",
+    "Province/State": "Arauca",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-ATL",
+    "Province/State": "Atlantico",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-DC",
+    "Province/State": "Bogota",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-BOL",
+    "Province/State": "Bolivar",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-BOY",
+    "Province/State": "Boyaca",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CAL",
+    "Province/State": "Caldas",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CAQ",
+    "Province/State": "Caqueta",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CAS",
+    "Province/State": "Casanare",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CAU",
+    "Province/State": "Cauca",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CES",
+    "Province/State": "Cesar",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-COR",
+    "Province/State": "Choco",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CUN",
+    "Province/State": "Cordoba",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-CHO",
+    "Province/State": "Cundinamarca",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-GUA",
+    "Province/State": "Guainia",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-GUV",
+    "Province/State": "Guaviare",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-HUI",
+    "Province/State": "Huila",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-LAG",
+    "Province/State": "La Guajira",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-MAG",
+    "Province/State": "Magdalena",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-MET",
+    "Province/State": "Meta",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-NAR",
+    "Province/State": "Narino",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-NSA",
+    "Province/State": "Norte de Santander",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-PUT",
+    "Province/State": "Putumayo",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-QUI",
+    "Province/State": "Quindio",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-RIS",
+    "Province/State": "Risaralda",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-SAP",
+    "Province/State": "San Andres y Providencia",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-SAN",
+    "Province/State": "Santander",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-SUC",
+    "Province/State": "Sucre",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-TOL",
+    "Province/State": "Tolima",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-VAC",
+    "Province/State": "Valle del Cauca",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-VAU",
+    "Province/State": "Vaupes",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CO-VID",
+    "Province/State": "Vichada",
+    "Country/Region": "Colombia",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-A",
+    "Province/State": "Alajuela",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-C",
+    "Province/State": "Cartago",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-G",
+    "Province/State": "Guanacaste",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-H",
+    "Province/State": "Heredia",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-L",
+    "Province/State": "Limon",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-P",
+    "Province/State": "Puntarenas",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "CR-SJ",
+    "Province/State": "San Jose",
+    "Country/Region": "Costa Rica",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-02",
+    "Province/State": "Azua",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-03",
+    "Province/State": "Baoruco",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-04",
+    "Province/State": "Barahona",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-05",
+    "Province/State": "Dajabon",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-06",
+    "Province/State": "Distrito Nacional",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-08",
+    "Province/State": "Duarte",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-09",
+    "Province/State": "El Seibo",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-30",
+    "Province/State": "Elias Pina",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-10",
+    "Province/State": "Espaillat",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-11",
+    "Province/State": "Hato Mayor",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-07",
+    "Province/State": "Hermanas Mirabal",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-12",
+    "Province/State": "Independencia",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-13",
+    "Province/State": "La Altagracia",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-14",
+    "Province/State": "La Romana",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-28",
+    "Province/State": "La Vega",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-15",
+    "Province/State": "Maria Trinidad Sanchez",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-29",
+    "Province/State": "Monsenor Nouel",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-16",
+    "Province/State": "Monte Cristi",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-17",
+    "Province/State": "Monte Plata",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-18",
+    "Province/State": "Pedernales",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-19",
+    "Province/State": "Peravia",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-20",
+    "Province/State": "Puerto Plata",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-21",
+    "Province/State": "Samana",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-31",
+    "Province/State": "San Cristobal",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-22",
+    "Province/State": "San Jose de Ocoa",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-23",
+    "Province/State": "San Juan",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-24",
+    "Province/State": "San Pedro de Macoris",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-25",
+    "Province/State": "Sanchez Ramirez",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-26",
+    "Province/State": "Santiago",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-32",
+    "Province/State": "Santiago Rodriguez",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-01",
+    "Province/State": "Santo Domingo",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "DO-27",
+    "Province/State": "Valverde",
+    "Country/Region": "Dominican Republic",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-A",
+    "Province/State": "Azuay",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-B",
+    "Province/State": "Bolivar",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-F",
+    "Province/State": "Canar",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-C",
+    "Province/State": "Carchi",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-H",
+    "Province/State": "Chimborazo",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-X",
+    "Province/State": "Cotopaxi",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-O",
+    "Province/State": "El Oro",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-E",
+    "Province/State": "Esmeraldas",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-W",
+    "Province/State": "Galapagos",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-G",
+    "Province/State": "Guayas",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-I",
+    "Province/State": "Imbabura",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-L",
+    "Province/State": "Loja",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-R",
+    "Province/State": "Los Rios",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-M",
+    "Province/State": "Manabi",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-S",
+    "Province/State": "Morona Santiago",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-N",
+    "Province/State": "Napo",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-D",
+    "Province/State": "Orellana",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-Y",
+    "Province/State": "Pastaza",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-P",
+    "Province/State": "Pichincha",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-SE",
+    "Province/State": "Santa Elena",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-SD",
+    "Province/State": "Santo Domingo de los Tsachilas",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-U",
+    "Province/State": "Sucumbios",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-T",
+    "Province/State": "Tungurahua",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "EC-Z",
+    "Province/State": "Zamora-Chinchipe",
+    "Country/Region": "Ecuador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-AH",
+    "Province/State": "Ahuachapan",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-CA",
+    "Province/State": "Cabanas",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-CH",
+    "Province/State": "Chalatenango",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-CU",
+    "Province/State": "Cuscatlan",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-LI",
+    "Province/State": "La Libertad",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-PA",
+    "Province/State": "La Paz",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-UN",
+    "Province/State": "La Unión",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-MO",
+    "Province/State": "Morazan",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-SM",
+    "Province/State": "San Miguel",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-SS",
+    "Province/State": "San Salvador",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-SV",
+    "Province/State": "San Vicente",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-SA",
+    "Province/State": "Santa Ana",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-SO",
+    "Province/State": "Sonsonate",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "SV-US",
+    "Province/State": "Usulutan",
+    "Country/Region": "El Salvador",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-AT",
+    "Province/State": "Atlantida",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-CH",
+    "Province/State": "Choluteca",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-CL",
+    "Province/State": "Colon",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-CM",
+    "Province/State": "Comayagua",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-CP",
+    "Province/State": "Copan",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-CR",
+    "Province/State": "Cortes",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-EP",
+    "Province/State": "El Paraiso",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-FM",
+    "Province/State": "Francisco Morazan",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-GD",
+    "Province/State": "Gracias a Dios",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-IN",
+    "Province/State": "Intibuca",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-IB",
+    "Province/State": "Islas de la Bahia",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-LP",
+    "Province/State": "La Paz",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-LE",
+    "Province/State": "Lempira",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-OC",
+    "Province/State": "Ocotepeque",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-OL",
+    "Province/State": "Olancho",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-SB",
+    "Province/State": "Santa Barbara",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-VA",
+    "Province/State": "Valle",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "HN-YO",
+    "Province/State": "Yoro",
+    "Country/Region": "Honduras",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-AGU",
+    "Province/State": "Aguascalientes",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-BCN",
+    "Province/State": "Baja California",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-BCS",
+    "Province/State": "Baja California Sur",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-CAM",
+    "Province/State": "Campeche",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-COA",
+    "Province/State": "Chiapas",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-COL",
+    "Province/State": "Chihuahua",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-CMX",
+    "Province/State": "Ciudad de Mexico",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-CHP",
+    "Province/State": "Coahuila",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-CHH",
+    "Province/State": "Colima",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-DUR",
+    "Province/State": "Durango",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-GUA",
+    "Province/State": "Guanajuato",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-GRO",
+    "Province/State": "Guerrero",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-HID",
+    "Province/State": "Hidalgo",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-JAL",
+    "Province/State": "Jalisco",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-MEX",
+    "Province/State": "Michoacan",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-MIC",
+    "Province/State": "Morelos",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-MOR",
+    "Province/State": "Mexico",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-NAY",
+    "Province/State": "Nayarit",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-NLE",
+    "Province/State": "Nuevo Leon",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-OAX",
+    "Province/State": "Oaxaca",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-PUE",
+    "Province/State": "Puebla",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-QUE",
+    "Province/State": "Queretaro",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-ROO",
+    "Province/State": "Quintana Roo",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-SLP",
+    "Province/State": "San Luis Potosi",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-SIN",
+    "Province/State": "Sinaloa",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-SON",
+    "Province/State": "Sonora",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-TAB",
+    "Province/State": "Tabasco",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-TAM",
+    "Province/State": "Tamaulipas",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-TLA",
+    "Province/State": "Tlaxcala",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-VER",
+    "Province/State": "Veracruz",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-YUC",
+    "Province/State": "Yucatan",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "MX-ZAC",
+    "Province/State": "Zacatecas",
+    "Country/Region": "Mexico",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-BO",
+    "Province/State": "Boaco",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-CA",
+    "Province/State": "Carazo",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-CI",
+    "Province/State": "Chinandega",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-CO",
+    "Province/State": "Chontales",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-ES",
+    "Province/State": "Estelí",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-GR",
+    "Province/State": "Granada",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-JI",
+    "Province/State": "Jinotega",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-LE",
+    "Province/State": "León",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-MD",
+    "Province/State": "Madriz",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-MN",
+    "Province/State": "Managua",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-MS",
+    "Province/State": "Masaya",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-MT",
+    "Province/State": "Matagalpa",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-NS",
+    "Province/State": "Nueva Segovia",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-SJ",
+    "Province/State": "Rivas",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-RI",
+    "Province/State": "Rio San Juan",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-AN",
+    "Province/State": "NCCAR",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "NI-AS",
+    "Province/State": "SCCAR",
+    "Country/Region": "Nicaragua",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-1",
+    "Province/State": "Bocas del Toro",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-4",
+    "Province/State": "Chiriqui",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-2",
+    "Province/State": "Cocle",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-3",
+    "Province/State": "Colon",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-5",
+    "Province/State": "Darien",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-6",
+    "Province/State": "Herrera",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-7",
+    "Province/State": "Los Santos",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-8",
+    "Province/State": "Panama",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-10",
+    "Province/State": "Panama Oeste",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-9",
+    "Province/State": "Veraguas",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-EM",
+    "Province/State": "Embera",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-KY",
+    "Province/State": "Guna Yala",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PA-NB",
+    "Province/State": "Ngabe-Bugle",
+    "Country/Region": "Panama",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-ASU",
+    "Province/State": "Distrito Capital",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-1",
+    "Province/State": "Concepcion",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-2",
+    "Province/State": "San Pedro",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-3",
+    "Province/State": "Cordillera",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-4",
+    "Province/State": "Guaira",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-5",
+    "Province/State": "Caaguazu",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-6",
+    "Province/State": "Caazapa",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-7",
+    "Province/State": "Itapua",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-8",
+    "Province/State": "Misiones",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-9",
+    "Province/State": "Paraguari",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-10",
+    "Province/State": "Alto Parana",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-11",
+    "Province/State": "Central",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-12",
+    "Province/State": "Neembucu",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-13",
+    "Province/State": "Amambay",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-14",
+    "Province/State": "Canindeyu",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-15",
+    "Province/State": "Presidente Hayes",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-16",
+    "Province/State": "Alto Paraguay",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PY-19",
+    "Province/State": "Boqueron",
+    "Country/Region": "Paraguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-LIM",
+    "Province/State": "Lima",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-LOR",
+    "Province/State": "Loreto",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-LAM",
+    "Province/State": "Lambayeque",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-CAL",
+    "Province/State": "Callao",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-CUS",
+    "Province/State": "Cusco",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-PIU",
+    "Province/State": "Piura",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-LAL",
+    "Province/State": "La Libertad",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-ANC",
+    "Province/State": "Ancash",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-HUC",
+    "Province/State": "Huanuco",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-ARE",
+    "Province/State": "Arequipa",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-ICA",
+    "Province/State": "Ica",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-MDD",
+    "Province/State": "Madre de dios",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-TUM",
+    "Province/State": "Tumbes",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-CAJ",
+    "Province/State": "Cajamarca",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-AMA",
+    "Province/State": "Amazonas",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-SAM",
+    "Province/State": "San Martin",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-UCA",
+    "Province/State": "Ucayali",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-PAS",
+    "Province/State": "Pasco",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-JUN",
+    "Province/State": "Junin",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-HUV",
+    "Province/State": "Huancavelica",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-AYA",
+    "Province/State": "Ayacucho",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-APU",
+    "Province/State": "Apurimac",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-PUN",
+    "Province/State": "Puno",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-MOQ",
+    "Province/State": "Moquegua",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "PE-TAC",
+    "Province/State": "Tacna",
+    "Country/Region": "Peru",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-AR",
+    "Province/State": "Artigas",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-CA",
+    "Province/State": "Canelones",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-CL",
+    "Province/State": "Cerro Largo",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-CO",
+    "Province/State": "Colonia",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-DU",
+    "Province/State": "Durazno",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-FS",
+    "Province/State": "Flores",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-FD",
+    "Province/State": "Florida",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-LA",
+    "Province/State": "Lavalleja",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-MA",
+    "Province/State": "Maldonado",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-MO",
+    "Province/State": "Montevideo",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-PA",
+    "Province/State": "Paysandu",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-RN",
+    "Province/State": "Rio Negro",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-RV",
+    "Province/State": "Rivera",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-RO",
+    "Province/State": "Rocha",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-SA",
+    "Province/State": "Salto",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-SJ",
+    "Province/State": "San Jose",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-SO",
+    "Province/State": "Soriano",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-TA",
+    "Province/State": "Tacuarembo",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "UY-TT",
+    "Province/State": "Treinta y Tres",
+    "Country/Region": "Uruguay",
+    "Last Update": "",
+    "Confirmed": "",
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-A",
+    "Province/State": "Caracas D.C.",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 22,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-Z",
+    "Province/State": "Amazonas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-B",
+    "Province/State": "Anzoátegui",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 2,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-C",
+    "Province/State": "Apure",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 2,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-D",
+    "Province/State": "Aragua",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 8,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-E",
+    "Province/State": "Barinas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 3,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-F",
+    "Province/State": "Bolívar",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-G",
+    "Province/State": "Carabobo",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-H",
+    "Province/State": "Cojedes",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-Y",
+    "Province/State": "Delta Amacuro",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-I",
+    "Province/State": "Falcón",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 2,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-J",
+    "Province/State": "Guárico",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-X",
+    "Province/State": "Vargas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 8,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-K",
+    "Province/State": "Lara",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 4,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-L",
+    "Province/State": "Mérida",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-M",
+    "Province/State": "Miranda",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 32,
+    "Deaths": "",
+    "Recovered": 15
+  },
+  {
+    "ISO 3166-2 Code": "VE-N",
+    "Province/State": "Monagas",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-O",
+    "Province/State": "Nueva Esparta",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-P",
+    "Province/State": "Portuguesa",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-R",
+    "Province/State": "Sucre",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-S",
+    "Province/State": "Táchira",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-T",
+    "Province/State": "Trujillo",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-U",
+    "Province/State": "Yaracuy",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 0,
+    "Deaths": "",
+    "Recovered": ""
+  },
+  {
+    "ISO 3166-2 Code": "VE-V",
+    "Province/State": "Zulia",
+    "Country/Region": "Venezuela",
+    "Last Update": "2020-03-24T21:35:48",
+    "Confirmed": 1,
+    "Deaths": "",
+    "Recovered": ""
+  }
+]

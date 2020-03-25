@@ -2,7 +2,7 @@
   <footer id="footer" class="footer">
     <div class="container">
       <div id="date" class="has-text-centered">
-        <h4><strong>Actualizado: Domingo Lunes de Marzo 7:53 pm </strong></h4>
+        <h4><strong>Actualizado: {{ fecha.toLocaleDateString("es-ES", options) }} </strong></h4>
       </div>
       <div id="terminos" class="content has-text-centered">
         <hr />
@@ -53,7 +53,14 @@
 </template>
 
 <script>
-  export default {}
+  export default {
+    data() {
+        return {
+        options : { year: 'numeric', month: 'long', day: 'numeric', hour12 : true, hour:  '2-digit', minute: '2-digit', second: '2-digit' },
+        fecha: new Date(this.$store.state.fecha)
+        }
+    }
+  }
 </script>
 
 <style></style>
