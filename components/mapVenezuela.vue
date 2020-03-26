@@ -34,6 +34,17 @@ export default {
     chart.exporting.menu.align = 'left'
     chart.exporting.menu.verticalAlign = 'bottom'
 
+    chart.exporting.menu.items = [
+      {
+        label: '...',
+        menu: [
+          { type: 'png', label: 'PNG', options: { quality: 1, scale: 2 } },
+          { type: 'jpg', label: 'JPG', options: { quality: 1, scale: 2 } },
+          { type: 'svg', label: 'SVG' }
+        ]
+      }
+    ]
+
     // Set projection
     chart.projection = new am4maps.projections.Miller()
 

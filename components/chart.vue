@@ -38,7 +38,16 @@ export default {
     chart.exporting.menu = new am4core.ExportMenu()
     chart.exporting.menu.align = 'left'
     chart.exporting.menu.verticalAlign = 'bottom'
-
+    chart.exporting.menu.items = [
+      {
+        label: '...',
+        menu: [
+          { type: 'png', label: 'PNG', options: { quality: 1, scale: 2 } },
+          { type: 'jpg', label: 'JPG', options: { quality: 1, scale: 2 } },
+          { type: 'svg', label: 'SVG' }
+        ]
+      }
+    ]
     // Create axes
     let categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis())
     categoryAxis.dataFields.category = 'date'
