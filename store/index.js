@@ -50,6 +50,7 @@ status.push({
 
 import historicoJson from '~/static/chart/historicoToday.json'
 
+console.log(status)
 /*
 /* Se crear el $storage
 */

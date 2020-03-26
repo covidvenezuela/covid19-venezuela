@@ -51,7 +51,7 @@
   {
     "date": "2020-03-20",
     "confirmados": 65,
-    "sanados": 1,
+    "sanados": 0,
     "fallecidos": 0,
     "activos": 64
   },
@@ -78,9 +78,16 @@
   },
   {
     "date": "2020-03-24",
-    "confirmados": 99,
+    "confirmados": 91,
     "sanados": 15,
     "fallecidos": 0,
-    "activos": 84
+    "activos": 76
+  },
+  {
+    "date": "2020-03-25",
+    "confirmados": 106,
+    "sanados": 15,
+    "fallecidos": 0,
+    "activos": 91
   }
 ]
