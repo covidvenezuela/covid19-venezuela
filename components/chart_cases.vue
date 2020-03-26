@@ -64,7 +64,7 @@
       valueAxis.renderer.labels.template.disabled = true
 
       // Modify chart's colors
-      chart.colors.list = [am4core.color('#f14668'), am4core.color('#00d1b2')]
+      chart.colors.list = [am4core.color('#f14668'), am4core.color('#3298dc')]
       // Create series
       function createSeries(field, name) {
         // Set up series
