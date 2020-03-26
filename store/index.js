@@ -31,10 +31,17 @@ let sumActivos = 0
 
 let status = []
 
-for (var i = 0; i < datos.length; i++) {
-  sumConfirmados = sumConfirmados + Number(datos[i]['Confirmed'])
-  sumSanados = sumSanados + Number(datos[i]['Recovered'])
-  sumFallecidos = sumFallecidos + Number(datos[i]['Deaths'])
+for (var i = 0; i < datos.length - 1; i++) {
+  sumConfirmados += Number(datos[i]['Confirmed'])
+  /*   console.log(
+    datos[i]['Province/State'] +
+      ' - ' +
+      datos[i]['Confirmed'] +
+      ' - ' +
+      sumConfirmados
+  ) */
+  sumSanados += Number(datos[i]['Recovered'])
+  sumFallecidos += Number(datos[i]['Deaths'])
 }
 
 status.push({
@@ -43,7 +50,6 @@ status.push({
   fallecidos: sumFallecidos,
   activos: sumConfirmados - sumSanados - sumFallecidos
 })
-
 /*
 /* Se cargan los datos del histórico diario
 */
