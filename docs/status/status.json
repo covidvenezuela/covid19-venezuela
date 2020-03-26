@@ -2993,7 +2993,7 @@
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-25T20:13:44",
     "Confirmed": 12,
-    "Deaths": "",
+    "Deaths": 1,
     "Recovered": ""
   },
   {
@@ -3091,7 +3091,7 @@
     "Province/State": "Miranda",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-25T20:13:44",
-    "Confirmed": 37,
+    "Confirmed": 38,
     "Deaths": "",
     "Recovered": 15
   },
