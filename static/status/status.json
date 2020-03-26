@@ -2993,7 +2993,7 @@
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-25T20:13:44",
     "Confirmed": 12,
-    "Deaths": "",
+    "Deaths": 1,
     "Recovered": ""
   },
   {
@@ -3092,7 +3092,7 @@
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-25T20:13:44",
     "Confirmed": 38,
-    "Deaths": 1,
+    "Deaths": "",
     "Recovered": 15
   },
   {
