@@ -18,11 +18,8 @@ import * as am4maps from '@amcharts/amcharts4/maps'
 export default {
   name: 'Venezuela',
   data() {
-    return {}
-  },
-  computed: {
-    totalPoints() {
-      return this.$store.state.dataNacional
+    return {
+      totalPoints: this.$store.state.dataNacional
     }
   },
   mounted() {

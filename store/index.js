@@ -3,12 +3,12 @@ import Vuex from 'vuex'
 import estadosJson from '~/static/status/status.json'
 import iso3312 from '~/static/utils/iso3312_latinamerica.json'
 
-//const status = require('~/static/status/status.json')
+// Cargando datos y filtrando por país, así como relacionando con el objeto de coordenadas
 
 let datos = []
 
 for (var i = 0; i < estadosJson.length; i++) {
-  if (estadosJson[i]['Country/Region'] == 'Venezuela') {
+  if (estadosJson[i]['Country/Region'] == process.env.country) {
     if (estadosJson[i].Confirmed != 0) {
       for (var j = 0; j < iso3312.length; j++) {
         if (iso3312[j]['Code'] == estadosJson[i]['ISO 3166-2 Code']) {
@@ -21,6 +21,9 @@ for (var i = 0; i < estadosJson.length; i++) {
   }
 }
 
+/*
+/* Se hacen las sumas de los datos del país
+*/
 let sumConfirmados = 0
 let sumSanados = 0
 let sumFallecidos = 0
@@ -41,12 +44,22 @@ status.push({
   activos: sumConfirmados - sumSanados - sumFallecidos
 })
 
+/*
+/* Se cargan los datos del histórico diario
+*/
+
+import historicoJson from '~/static/chart/historicoToday.json'
+
+/*
+/* Se crear el $storage
+*/
 const createStore = () => {
   return new Vuex.Store({
     state: () => ({
       dataNacional: datos,
       pais: status,
-      fecha: datos[0]['Last Update']
+      fecha: datos[0]['Last Update'],
+      historico: historicoJson
     })
   })
 }

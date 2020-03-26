@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2020-03-13",
+    "confirmados": 2,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 2
+  },
+  {
+    "date": "2020-03-14",
+    "confirmados": 8,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 8
+  },
+  {
+    "date": "2020-03-15",
+    "confirmados": 7,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 7
+  },
+  {
+    "date": "2020-03-16",
+    "confirmados": 16,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 16
+  },
+  {
+    "date": "2020-03-17",
+    "confirmados": 3,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 3
+  },
+  {
+    "date": "2020-03-18",
+    "confirmados": 0,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 0
+  },
+  {
+    "date": "2020-03-19",
+    "confirmados": 6,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 6
+  },
+  {
+    "date": "2020-03-20",
+    "confirmados": 23,
+    "sanados": 1,
+    "fallecidos": 0,
+    "activos": 23
+  },
+  {
+    "date": "2020-03-21",
+    "confirmados": 5,
+    "sanados": 14,
+    "fallecidos": 0,
+    "activos": 5
+  },
+  {
+    "date": "2020-03-22",
+    "confirmados": 7,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 0
+  },
+  {
+    "date": "2020-03-23",
+    "confirmados": 7,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 0
+  },
+  {
+    "date": "2020-03-24",
+    "confirmados": 15,
+    "sanados": 0,
+    "fallecidos": 0,
+    "activos": 0
+  }
+]

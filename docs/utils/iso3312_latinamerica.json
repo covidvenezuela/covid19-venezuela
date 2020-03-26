@@ -4954,5 +4954,19 @@
     "Subdivision Name (ay)": "",
     "Parent Subdivision": "",
     "Local Variant": ""
+  },
+  {
+    "Country Code": "VE",
+    "Country Name": "Venezuela",
+    "Code": "VE-W",
+    "Subdivision Name (es)": "Los Roques",
+    "Subdivision Category": "State",
+    "Number": "",
+    "Latitude": 11.833333,
+    "Longitude": -66.75,
+    "Subdivision Name (qu)": "",
+    "Subdivision Name (ay)": "",
+    "Parent Subdivision": "",
+    "Local Variant": ""
   }
 ]

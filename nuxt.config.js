@@ -1,3 +1,7 @@
+var name = 'COVID-19 Venezuela'
+var description = 'Coronavirus COVID-19 Casos reportados en Venezuela'
+var twitterUser = '@rendergraf'
+
 export default {
   generate: {
     dir: 'docs'
@@ -5,20 +9,26 @@ export default {
   router: {
     base: '/covid19-venezuela/'
   },
+  env: {
+    country: 'Venezuela',
+    gitUser: 'covidvenezuela',
+    gitRepotitory: 'covid19-venezuela',
+    correo: 'covidvenezuela@gmail.com'
+  },
 
   mode: 'spa',
   /*
    ** Headers of the page
    */
   head: {
-    title: 'COVID-19 Venezuela',
+    title: name,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: 'COVID-19 en Venezuela'
+        content: description
       },
       {
         hid: 'robots',
@@ -28,23 +38,23 @@ export default {
       {
         hid: 'twitter:card',
         name: 'twitter:card',
-        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+        content: description
       },
-      { hid: 'twitter:site', name: 'twitter:site', content: '@rendergraf' },
+      { hid: 'twitter:site', name: 'twitter:site', content: twitterUser },
       {
         hid: 'twitter:creator',
         name: 'twitter:creator',
-        content: '@rendergraf'
+        content: twitterUser
       },
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+        content: description
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+        content: description
       },
       {
         hid: 'twitter:image',
@@ -55,7 +65,7 @@ export default {
       {
         hid: 'twitter:image:alt',
         name: 'twitter:image:alt',
-        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+        content: description
       },
       {
         hid: 'og:image',
@@ -76,13 +86,13 @@ export default {
       {
         hid: 'og:site_name',
         name: 'og:site_name',
-        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+        content: description
       },
-      { hid: 'og:title', name: 'og:title', content: 'COVID-19 Venezuela' },
+      { hid: 'og:title', name: 'og:title', content: description },
       {
         hid: 'og:description',
         name: 'og:description',
-        content: 'Coronavirus COVID-19 Casos reportados en Venezuela'
+        content: description
       }
     ],
     link: [

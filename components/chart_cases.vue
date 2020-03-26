@@ -21,9 +21,9 @@ am4core.useTheme(am4themes_dataviz)
 
 export default {
   name: 'ChartCases',
-  computed: {
-    totalPoints() {
-      return this.$store.state.dataNacional
+  data() {
+    return {
+      totalPoints: this.$store.state.dataNacional
     }
   },
   mounted() {

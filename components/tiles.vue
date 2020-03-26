@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="has-text-centered">
-      <h1 class="is-size-2 title-magenta">
-        <strong>CORONAVIRUS VENEZUELA</strong>
+      <h1 class="is-size-2 is-uppercase title-magenta">
+        <strong>CORONAVIRUS {{ pais }}</strong>
       </h1>
     </div>
     <nav class="level status padding-top">
@@ -40,7 +40,8 @@
 export default {
   data() {
     return {
-      dataTotal: this.$store.state.pais[0]
+      dataTotal: this.$store.state.pais[0],
+      pais: process.env.country
     }
   }
 }
