@@ -8793,6 +8793,11 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
+vue2-smooth-scroll@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.npm.taobao.org/vue2-smooth-scroll/download/vue2-smooth-scroll-1.2.0.tgz#0dd1c0f9f083a34d2327ecc3ea0b65dc8d19b216"
+  integrity sha1-DdHA+fCDo00jJ+zD6gtl3I0ZshY=
+
 vue@^2.6.11:
   version "2.6.11"
   resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
