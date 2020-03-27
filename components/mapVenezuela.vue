@@ -88,17 +88,11 @@
       marker.width = 48
       marker.height = 48
       marker.nonScaling = true
-      marker.tooltipHTML = `<center><strong>{Province/State}</strong></center>
-            <hr />
-            <table>
-            <tr>
-              <th align="left">{Confirmed} Confirmados</th>
-            </tr>
-            <tr>
-              <th align="left">{Deaths} Fallecidos</th>
-            </tr>
-            </table>
-            <hr />`
+      marker.tooltipHTML = `<div class="tooltip-state">
+                <h3 class="has-text-centered"><strong>{Province/State}</strong></h3>
+                <h4>&#128567; Confirmados <strong>{Confirmed}</strong></h4>
+                <h4>&#128128; Fallecidos <strong>{Deaths}</strong></h4>
+                <h4>&#128515; Sanados <strong>{Recovered}</strong></h4></div>`
 
       //marker.tooltipText =('[bold]{Province/State}[/]\n [bold]{Confirmed}[/] Confirmado\n')
       marker.horizontalCenter = 'middle'
@@ -108,7 +102,7 @@
       marker.properties.fillOpacity = 0.5
       marker.properties.stroke = am4core.color('#b713a6')
       /*       marker.disabled = true
-                                                                                                                                                                                            marker.propertyFields.disabled = 'disabled' */
+                                                                                                                                                                                                                                        marker.propertyFields.disabled = 'disabled' */
 
       // Create Label circle
       let label = imageSeriesTemplate.createChild(am4core.Label)
@@ -120,7 +114,7 @@
       label.strokeWidth = 1
       label.nonScaling = true
       /*       label.disabled = true
-                                                                                                                                                                                            label.propertyFields.disabled = 'disabled' */
+                                                                                                                                                                                                                                        label.propertyFields.disabled = 'disabled' */
 
       // Shadow
       let shadow = new am4core.DropShadowFilter()
@@ -174,6 +168,13 @@
 
   .amcharts-amexport-item.amcharts-amexport-item-level-0 a {
     color: #b713a6;
+  }
+  .tooltip-state {
+    font-size: 20px;
+    color: #fff;
+    strong {
+      color: #fff;
+    }
   }
 
   .title-map {
