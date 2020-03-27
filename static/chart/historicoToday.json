@@ -95,6 +95,14 @@
     "confirmados": 107,
     "sanados": 31,
     "fallecidos": 1,
+    "activos": 91
+  },
+
+  {
+    "date": "2020-03-26",
+    "confirmados": 107,
+    "sanados": 31,
+    "fallecidos": 1,
     "activos": 75
   }
 ]
