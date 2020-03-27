@@ -118,6 +118,6 @@
 <style>
   .chart-cases {
     width: 96%;
-    height: 800px;
+    height: 950px;
   }
 </style>
