@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container background-header">
     <div class="has-text-centered">
       <h1 class="is-size-2 is-uppercase title-magenta">
         <strong>CORONAVIRUS {{ pais }}</strong>
@@ -49,13 +49,24 @@ export default {
 
 <style lang="scss">
 @import '~bulma/sass/utilities/all';
+/* .background-header {
+  background-image: url('~/static/background.jpg');
+} */
 .status {
   &_item {
+    box-shadow: 0 1px 1px 0 rgba(60, 64, 67, 0.08),
+      0 1px 3px 1px rgba(60, 64, 67, 0.16);
     background-color: #f5f5f5;
     padding: 3px 20px;
     margin-bottom: 2px !important;
-    margin-right: 2px;
-    margin-left: 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+    transition: box-shadow ease-in-out 0.3s, background-color ease-in-out 0.5s;
+    &:hover {
+      box-shadow: 0 1px 3px 1px rgba(60, 64, 67, 0.2),
+        0 2px 8px 4px rgba(180, 180, 180, 0.1);
+      background-color: #fafafa;
+    }
     @include mobile {
       margin-right: 10px;
       margin-left: 10px;

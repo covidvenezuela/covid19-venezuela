@@ -7,7 +7,7 @@
     >
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item" v-bind:href="repositorio">
+          <a class="navbar-item" v-bind:href="'/' + repositorio">
             COVID-19 {{ pais }}
           </a>
           <a
