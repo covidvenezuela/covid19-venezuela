@@ -59,7 +59,7 @@
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-28T17:01:22",
     "Confirmed": 1,
-    "Deaths": 0,
+    "Deaths": 1,
     "Recovered": 0
   },
   {
@@ -140,7 +140,7 @@
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-28T17:01:22",
     "Confirmed": 48,
-    "Deaths": 1,
+    "Deaths": 0,
     "Recovered": 39
   },
   {
