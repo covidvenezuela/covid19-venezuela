@@ -2956,7 +2956,7 @@
     "Province/State": "Caracas D.C.",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 26,
+    "Confirmed": 20,
     "Deaths": 0,
     "Recovered": 0
   },
@@ -2983,7 +2983,7 @@
     "Province/State": "Apure",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 2,
+    "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
   },
@@ -3064,7 +3064,7 @@
     "Province/State": "Vargas",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 9,
+    "Confirmed": 10,
     "Deaths": 0,
     "Recovered": 0
   },
@@ -3091,7 +3091,7 @@
     "Province/State": "Miranda",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 40,
+    "Confirmed": 46,
     "Deaths": 1,
     "Recovered": 39
   },
@@ -3118,7 +3118,7 @@
     "Province/State": "Portuguesa",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 1,
+    "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
   },
@@ -3136,7 +3136,7 @@
     "Province/State": "Táchira",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 1,
+    "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
   },
@@ -3172,7 +3172,7 @@
     "Province/State": "Los Roques",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-27T19:01:22",
-    "Confirmed": 2,
+    "Confirmed": 4,
     "Deaths": 0,
     "Recovered": 0
   }

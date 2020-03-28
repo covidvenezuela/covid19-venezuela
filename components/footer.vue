@@ -43,6 +43,9 @@
           <a href="https://www.worldometers.info/coronavirus/"
             >worldometers | COVID-19 CORONAVIRUS OUTBREAK</a
           ><br />
+          <a href="https://www.elnacional.com/venezuela/regimen-reporto-seis-nuevos-casos-de-covid-19//"
+            >elnacional.com</a
+          ><br />
           <hr />
         <h4><strong>Contacto</strong></h4>
           <a href="mailto:covidvenezuela@gmail.com">covidvenezuela@gmail.com</a>
