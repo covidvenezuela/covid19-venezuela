@@ -97,12 +97,18 @@
     "fallecidos": 1,
     "activos": 91
   },
-
   {
     "date": "2020-03-27",
     "confirmados": 113,
     "sanados": 39,
     "fallecidos": 2,
     "activos": 72
+  },
+  {
+    "date": "2020-03-28",
+    "confirmados": 119,
+    "sanados": 39,
+    "fallecidos": 2,
+    "activos": 78
   }
 ]
