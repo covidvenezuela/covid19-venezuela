@@ -4,7 +4,7 @@
     "Province/State": "Caracas D.C.",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-29T17:20:12",
-    "Confirmed": 25,
+    "Confirmed": 26,
     "Deaths": 1,
     "Recovered": 0
   },
@@ -40,7 +40,7 @@
     "Province/State": "Aragua",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-29T17:20:12",
-    "Confirmed": 15,
+    "Confirmed": 16,
     "Deaths": 1,
     "Recovered": 0
   },
@@ -58,7 +58,7 @@
     "Province/State": "Bolívar",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-29T17:20:12",
-    "Confirmed": 1,
+    "Confirmed": 2,
     "Deaths": 1,
     "Recovered": 0
   },
@@ -139,7 +139,7 @@
     "Province/State": "Miranda",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-29T17:20:12",
-    "Confirmed": 51,
+    "Confirmed": 53,
     "Deaths": 0,
     "Recovered": 39
   },
@@ -202,7 +202,7 @@
     "Province/State": "Yaracuy",
     "Country/Region": "Venezuela",
     "Last Update": "2020-03-29T17:20:12",
-    "Confirmed": 0,
+    "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
   },

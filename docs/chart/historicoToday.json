@@ -117,5 +117,12 @@
     "sanados": 39,
     "fallecidos": 3,
     "activos": 87
+  },
+  {
+    "date": "2020-03-30",
+    "confirmados": 135,
+    "sanados": 39,
+    "fallecidos": 3,
+    "activos": 93
   }
 ]
