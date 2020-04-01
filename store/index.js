@@ -2,6 +2,7 @@ import Vuex from 'vuex'
 
 import estadosJson from '~/static/status/status.json'
 import iso3312 from '~/static/utils/iso3312_latinamerica.json'
+//import estadosGlobal from '~/static/status/globalStatus.json'
 
 // Cargando datos y filtrando por país, así como relacionando con el objeto de coordenadas
 
@@ -33,13 +34,6 @@ let status = []
 
 for (var i = 0; i < datos.length - 1; i++) {
   sumConfirmados += Number(datos[i]['Confirmed'])
-  /*   console.log(
-    datos[i]['Province/State'] +
-      ' - ' +
-      datos[i]['Confirmed'] +
-      ' - ' +
-      sumConfirmados
-  ) */
   sumSanados += Number(datos[i]['Recovered'])
   sumFallecidos += Number(datos[i]['Deaths'])
 }

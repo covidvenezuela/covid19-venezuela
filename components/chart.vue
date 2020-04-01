@@ -71,7 +71,7 @@ export default {
     let sanados = chart.series.push(new am4charts.LineSeries())
     sanados.dataFields.valueY = 'sanados'
     sanados.dataFields.categoryX = 'date'
-    sanados.name = 'Sanados'
+    sanados.name = 'Recuperados'
     sanados.strokeWidth = 3
     sanados.fill = am4core.color('#00d1b2')
     sanados.stroke = am4core.color('#00d1b2')
