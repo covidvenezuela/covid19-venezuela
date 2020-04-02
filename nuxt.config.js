@@ -1,5 +1,6 @@
-var name = 'COVID-19 Venezuela'
-var description = 'Coronavirus COVID-19 Casos reportados en Venezuela'
+var name = 'Venezuela Coronavirus Mapa Interactivo | COVID-19 Venezuela'
+var description =
+  'Venezuela Coronavirus Mapa Interactivo | COVID-19 Casos reportados en Venezuela'
 var twitterUser = '@rendergraf'
 
 export default {
@@ -27,7 +28,6 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'theme-color', content: '#2e2575' },
       {
-        hid: 'description',
         name: 'description',
         content: description
       },
@@ -37,61 +37,54 @@ export default {
         content: 'index, follow'
       },
       {
-        hid: 'twitter:card',
         name: 'twitter:card',
-        content: description
+        content: 'sumary'
       },
-      { hid: 'twitter:site', name: 'twitter:site', content: twitterUser },
       {
-        hid: 'twitter:creator',
+        name: 'twitter:site',
+        content: twitterUser
+      },
+      {
         name: 'twitter:creator',
         content: twitterUser
       },
       {
-        hid: 'twitter:title',
         name: 'twitter:title',
-        content: description
+        content: name
       },
       {
-        hid: 'twitter:description',
         name: 'twitter:description',
         content: description
       },
       {
-        hid: 'twitter:image',
         name: 'twitter:image',
         content:
           'https://covidvenezuela.github.io/covid19-venezuela/snapshot.png'
       },
       {
-        hid: 'twitter:image:alt',
         name: 'twitter:image:alt',
         content: description
       },
+
       {
-        hid: 'og:image',
         property: 'og:image',
         content:
           'https://covidvenezuela.github.io/covid19-venezuela/snapshot.png'
       },
       {
-        hid: 'og:type',
         name: 'og:type',
         content: 'website'
       },
       {
-        hid: 'og:url',
         name: 'og:url',
         content: 'https://covidvenezuela.github.io/covid19-venezuela/'
       },
       {
-        hid: 'og:site_name',
         name: 'og:site_name',
         content: description
       },
-      { hid: 'og:title', name: 'og:title', content: description },
+      { name: 'og:title', content: description },
       {
-        hid: 'og:description',
         name: 'og:description',
         content: description
       }
