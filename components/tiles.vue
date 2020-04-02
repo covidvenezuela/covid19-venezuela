@@ -33,6 +33,42 @@
         </div>
       </div>
     </nav>
+    <nav class="level status padding-top">
+      <div class="status_item level-item has-text-centered">
+        <div>
+          <p class="heading">Población</p>
+          <p class="title">31.980.000</p>
+        </div>
+      </div>
+      <div class="status_item level-item has-text-centered">
+        <div>
+          <p class="heading">% Mortalidad</p>
+          <p class="title">
+            {{
+              ((dataTotal.fallecidos * 100) / dataTotal.confirmados).toFixed(2)
+            }}%
+          </p>
+        </div>
+      </div>
+      <div class="status_item level-item has-text-centered">
+        <div>
+          <p class="heading">% Recuperación</p>
+          <p class="title">
+            {{
+              ((dataTotal.sanados * 100) / dataTotal.confirmados).toFixed(2)
+            }}%
+          </p>
+        </div>
+      </div>
+      <div class="status_item level-item has-text-centered">
+        <div>
+          <p class="heading">Días de inicio</p>
+          <p class="title">
+            {{ diasCuarentena }}
+          </p>
+        </div>
+      </div>
+    </nav>
   </div>
 </template>
 
@@ -43,6 +79,15 @@ export default {
       dataTotal: this.$store.state.pais[0],
       pais: process.env.country
     }
+  },
+  computed: {
+    diasCuarentena: function() {
+      let inicio = new Date('2020/03/13')
+      let actual = new Date()
+
+      let resta = actual.getTime() - inicio.getTime()
+      return Math.round(resta / (1000 * 60 * 60 * 24))
+    }
   }
 }
 </script>
@@ -50,8 +95,8 @@ export default {
 <style lang="scss">
 @import '~bulma/sass/utilities/all';
 /* .background-header {
-                background-image: url('~/static/background.jpg');
-              } */
+                                                              background-image: url('~/static/background.jpg');
+                                                            } */
 .status {
   &_item {
     box-shadow: 0 1px 1px 0 rgba(60, 64, 67, 0.08),
