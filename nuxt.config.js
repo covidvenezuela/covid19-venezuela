@@ -38,7 +38,7 @@ export default {
       },
       {
         name: 'twitter:card',
-        content: 'sumary'
+        content: 'summary'
       },
       {
         name: 'twitter:site',
