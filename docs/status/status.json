@@ -4,7 +4,7 @@
     "Province/State": "Caracas D.C.",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 26,
+    "Confirmed": 27,
     "Deaths": 2,
     "Recovered": 0
   },
@@ -139,7 +139,7 @@
     "Province/State": "Miranda",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 58,
+    "Confirmed": 57,
     "Deaths": 1,
     "Recovered": 43
   },
@@ -193,7 +193,7 @@
     "Province/State": "Trujillo",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 3,
+    "Confirmed": 4,
     "Deaths": 1,
     "Recovered": 0
   },
@@ -211,8 +211,8 @@
     "Province/State": "Zulia",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 4,
-    "Deaths": 1,
+    "Confirmed": 5,
+    "Deaths": 0,
     "Recovered": 0
   },
   {
