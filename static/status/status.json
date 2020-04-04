@@ -3,8 +3,8 @@
     "ISO 3166-2 Code": "VE-A",
     "Province/State": "Caracas D.C.",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 27,
+    "Last Update": "2020-04-03T18:41:12",
+    "Confirmed": 26,
     "Deaths": 2,
     "Recovered": 0
   },
@@ -12,7 +12,7 @@
     "ISO 3166-2 Code": "VE-Z",
     "Province/State": "Amazonas",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
@@ -21,7 +21,7 @@
     "ISO 3166-2 Code": "VE-B",
     "Province/State": "Anzoátegui",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 2,
     "Deaths": 0,
     "Recovered": 0
@@ -30,7 +30,7 @@
     "ISO 3166-2 Code": "VE-C",
     "Province/State": "Apure",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -39,7 +39,7 @@
     "ISO 3166-2 Code": "VE-D",
     "Province/State": "Aragua",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 20,
     "Deaths": 1,
     "Recovered": 0
@@ -48,7 +48,7 @@
     "ISO 3166-2 Code": "VE-E",
     "Province/State": "Barinas",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 6,
     "Deaths": 0,
     "Recovered": 0
@@ -57,7 +57,7 @@
     "ISO 3166-2 Code": "VE-F",
     "Province/State": "Bolívar",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 2,
     "Deaths": 1,
     "Recovered": 0
@@ -66,7 +66,7 @@
     "ISO 3166-2 Code": "VE-G",
     "Province/State": "Carabobo",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
@@ -75,7 +75,7 @@
     "ISO 3166-2 Code": "VE-H",
     "Province/State": "Cojedes",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -84,7 +84,7 @@
     "ISO 3166-2 Code": "VE-Y",
     "Province/State": "Delta Amacuro",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
@@ -93,7 +93,7 @@
     "ISO 3166-2 Code": "VE-I",
     "Province/State": "Falcón",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 2,
     "Deaths": 0,
     "Recovered": 0
@@ -102,7 +102,7 @@
     "ISO 3166-2 Code": "VE-J",
     "Province/State": "Guárico",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -111,7 +111,7 @@
     "ISO 3166-2 Code": "VE-X",
     "Province/State": "Vargas",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 12,
     "Deaths": 0,
     "Recovered": 0
@@ -120,7 +120,7 @@
     "ISO 3166-2 Code": "VE-K",
     "Province/State": "Lara",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 4,
     "Deaths": 0,
     "Recovered": 0
@@ -129,7 +129,7 @@
     "ISO 3166-2 Code": "VE-L",
     "Province/State": "Mérida",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -138,16 +138,16 @@
     "ISO 3166-2 Code": "VE-M",
     "Province/State": "Miranda",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 57,
+    "Last Update": "2020-04-03T18:41:12",
+    "Confirmed": 58,
     "Deaths": 1,
-    "Recovered": 43
+    "Recovered": 52
   },
   {
     "ISO 3166-2 Code": "VE-N",
     "Province/State": "Monagas",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -156,7 +156,7 @@
     "ISO 3166-2 Code": "VE-O",
     "Province/State": "Nueva Esparta",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 2,
     "Deaths": 0,
     "Recovered": 0
@@ -165,7 +165,7 @@
     "ISO 3166-2 Code": "VE-P",
     "Province/State": "Portuguesa",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
@@ -174,7 +174,7 @@
     "ISO 3166-2 Code": "VE-R",
     "Province/State": "Sucre",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -183,7 +183,7 @@
     "ISO 3166-2 Code": "VE-S",
     "Province/State": "Táchira",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 0,
     "Deaths": 0,
     "Recovered": 0
@@ -192,7 +192,7 @@
     "ISO 3166-2 Code": "VE-T",
     "Province/State": "Trujillo",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 4,
     "Deaths": 1,
     "Recovered": 0
@@ -201,7 +201,7 @@
     "ISO 3166-2 Code": "VE-U",
     "Province/State": "Yaracuy",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 1,
     "Deaths": 0,
     "Recovered": 0
@@ -210,16 +210,16 @@
     "ISO 3166-2 Code": "VE-V",
     "Province/State": "Zulia",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
-    "Confirmed": 5,
-    "Deaths": 0,
+    "Last Update": "2020-04-03T18:41:12",
+    "Confirmed": 4,
+    "Deaths": 1,
     "Recovered": 0
   },
   {
     "ISO 3166-2 Code": "VE-W",
     "Province/State": "Los Roques",
     "Country/Region": "Venezuela",
-    "Last Update": "2020-04-02T22:41:12",
+    "Last Update": "2020-04-03T18:41:12",
     "Confirmed": 4,
     "Deaths": 0,
     "Recovered": 0
