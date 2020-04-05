@@ -159,5 +159,12 @@
     "sanados": 52,
     "fallecidos": 7,
     "activos": 96
+  },
+  {
+    "date": "2020-04-05",
+    "confirmados": 159,
+    "sanados": 52,
+    "fallecidos": 7,
+    "activos": 100
   }
 ]
