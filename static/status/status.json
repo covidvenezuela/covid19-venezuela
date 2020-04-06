@@ -4,9 +4,9 @@
     "Province/State": "Caracas D.C.",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-06T15:12:12",
-    "Confirmed": 26,
+    "Confirmed": 27,
     "Deaths": 2,
-    "Recovered": 0
+    "Recovered": 22
   },
   {
     "ISO 3166-2 Code": "VE-Z",
@@ -42,7 +42,7 @@
     "Last Update": "2020-04-06T15:12:12",
     "Confirmed": 20,
     "Deaths": 1,
-    "Recovered": 0
+    "Recovered": 6
   },
   {
     "ISO 3166-2 Code": "VE-E",
@@ -112,9 +112,9 @@
     "Province/State": "Vargas",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-06T15:12:12",
-    "Confirmed": 12,
+    "Confirmed": 14,
     "Deaths": 0,
-    "Recovered": 0
+    "Recovered": 3
   },
   {
     "ISO 3166-2 Code": "VE-K",
@@ -141,7 +141,7 @@
     "Last Update": "2020-04-06T15:12:12",
     "Confirmed": 60,
     "Deaths": 1,
-    "Recovered": 52
+    "Recovered": 34
   },
   {
     "ISO 3166-2 Code": "VE-N",
@@ -193,7 +193,7 @@
     "Province/State": "Trujillo",
     "Country/Region": "Venezuela",
     "Last Update": "2020-04-06T15:12:12",
-    "Confirmed": 4,
+    "Confirmed": 5,
     "Deaths": 1,
     "Recovered": 0
   },
