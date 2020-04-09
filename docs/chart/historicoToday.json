@@ -173,5 +173,19 @@
     "sanados": 65,
     "fallecidos": 7,
     "activos": 93
+  },
+  {
+    "date": "2020-04-07",
+    "confirmados": 166,
+    "sanados": 65,
+    "fallecidos": 7,
+    "activos": 94
+  },
+  {
+    "date": "2020-04-08",
+    "confirmados": 167,
+    "sanados": 65,
+    "fallecidos": 9,
+    "activos": 93
   }
 ]
