@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/bulma": "^1.2.1",
     "coffee-loader": "^0.9.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^8.0.2",
